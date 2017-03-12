@@ -1,0 +1,2804 @@
+
+<!doctype html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+
+
+<script type="text/javascript">
+  var pvinsight_page_ancestors = '251366993;261789159;261789193;345610244';
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=GBK" />
+<meta name="description" content="老友记,电视剧老友记,老友记下载,老友记全集,老友记在线观看" />
+<meta name="keywords" content="老友记,电视剧老友记,老友记下载,老友记全集,老友记在线观看" />
+<meta name="robots" content="all" />
+
+<script src="http://www.sohu.com/sohuflash_1.js" type="text/javascript"></script>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<title>老友记-老友记全集(全10季) - 搜狐视频</title>
+<script type="text/javascript" src="http://tv.sohu.com/upload/static/global/hdpv.js"></script>
+<script type="text/javascript">
+var _iwt_UA="UA-sohu-123456"; //客户项目编号,根据实际生成
+(function (D) {
+    var h=D.getElementsByTagName('head')[0],
+    s=D.createElement('script');
+    s.type='text/javascript';
+    s.charset='utf-8';
+    s.src='http://tv.sohu.com/upload/Trace/iwt-min.js';
+    h.firstChild?h.insertBefore(s,h.firstChild):h.appendChild(s);
+})(document);
+</script>
+<script>(function(){function a(){var a=/win/i.test(navigator.userAgent);if(a)if(typeof window.ActiveXObject=="function")try{var b=new ActiveXObject("SoHuVA.SoHuDector.1");b.StartSoHuVA()}catch(c){}else{function d(){var a=navigator.plugins||[];for(var b=0,c;c=a[b];b++)if(/npifox/i.test(c.description))return!0;return!1}if(d()){var e=document.getElementById("embed_ifox");if(!e){var f=document.createElement("div");f.style.cssText="position:absolute;zIndex:-1;height:1px",f.innerHTML='<embed id="embed_ifox" type="application/ifox-plugin" width="0" height="0"></embed>',document.body&&(document.body.insertBefore(f,document.body.firstChild),e=document.getElementById("embed_ifox"))}try{e.RunSohuVA()}catch(c){}}}}var b=window._IFoxContext||(window._IFoxContext={});b.isCalled||(b.isCalled=!0,setTimeout(function(){a()},2e3))})()</script>
+<link type="text/css" rel="stylesheet" href="http://tv.sohu.com/upload/11tvhead/nav.css" />
+<script type="text/javascript" src="http://tv.sohu.com/upload/jq_plugin/passport.js"></script>
+<script>
+    jQuery(function(){
+        var logoDivs = jQuery("#logoFocus .mouse");
+	logoDivs.hover(function(){
+		var els = jQuery(this);
+		els.find(".anOV").addClass("over");
+		els.find(".hidden").show(); 
+		els.find(".vHisifa").css({"width":els.find(".olay").width(),"height":els.find(".olay").height()});
+		els.find(".layOp").css({"height":els.find(".layCon").height()+10});
+	},function(){
+		var els = jQuery(this);
+		els.find(".anOV").removeClass("over");
+		els.find(".hidden").hide();
+	});
+    });
+</script>
+<div class="logoFull">
+<div class="area" id="logoFocus">
+	<div class="left">
+		<div class="logo l"><style>
+#logoFocus .left{margin:2px 0 0;}
+</style>
+<a href="http://tv.sohu.com/" target="_blank">
+<img height="30" width="72" alt="tv视频" src="http://tv.sohu.com/upload/101116tvplay/images/logo_bo01.gif">
+</a></div>
+		<div class="ado l">
+		</div>
+	</div>
+	<div class="right">
+		<div class="navList l">
+			<div id="nvId" class="nv"><a target="_blank" href="http://tv.sohu.com/">首页</a> | <a target="_blank" href="http://tv.sohu.com/drama/">电视剧</a> | <a target="_blank" href="http://tv.sohu.com/show/">综艺</a> | <a target="_blank" href="http://tv.sohu.com/s2016/alxdssj/">艾伦秀</a> | <a target="_blank" href="http://tv.sohu.com/s2016/jswszqdndsj/">最强大脑</a></div>
+                <div class="seleNv mouse">
+                    <div style="position: relative; z-index: 200;">
+                    <div class="navImg anOV"></div>
+                        <div class="navLay hidden" style="display:none;">
+                            <div class="layCon olay">
+                                <p><a href="http://tv.sohu.com/yule/" target="_blank">娱乐</a> <a href="http://tv.sohu.com/music/" target="_blank">音乐</a> 
+                                <a href="http://tv.sohu.com/comic/" target="_blank">动漫</a> <a href="http://tv.sohu.com/self/" target="_blank">出品</a></p>
+                                <p><a href="http://tv.sohu.com/news/" target="_blank">新闻</a> <a href="http://my.tv.sohu.com/" target="_blank">空间</a> <a href="http://so.tv.sohu.com/list_p11_p2_p3_p4-1_p5_p6_p70_p80_p9_2d2_p101_p12null.html" target="_blank">分类</a> <a href="http://tv.sohu.com/hothdtv/" target="_blank">排行</a> </p>
+                            </div>
+                        </div>
+                        <iframe class="navLayFrame hidden" frameBorder="0"></iframe>
+                    </div>
+                </div>
+		</div>
+		<div class="search l">
+			<form action="http://so.tv.sohu.com/mts" method="GET" target="_blank" id="sForm" autocomplete="off" name="sForm">
+				<input type="text" class="tx" value="老爸当家" id="sKey" name="wd" /><input type="hidden" value="1" name="box" />
+				<span ><input type="submit" class="btn" id="searchBtn" value="搜 索" /></span>
+			</form>
+		</div>
+		<div class="login r">
+		    <div class="hisFrag r" collection="Y">
+                <div id="gHistoryBt" class="hisT anOV"><a>播放记录</a></div>
+            </div>
+		    <div class="tvIdx r" style="margin-left:5px;"><a target="_blank" href="http://my.tv.sohu.com/user/video/upload.do">上传</a></div>
+            <span class="r" id="gNavLoginBox">
+                <span>
+                    <a href="http://my.tv.sohu.com/user/index.jsp?bru=http%3A//tv.sohu.com/">登录</a>
+                    | <a href="http://my.tv.sohu.com/user/reg/reginfo.do?bru=http%3A//tv.sohu.com/">注册</a>
+                </span> | 
+            </span>
+        </div>
+<link type="text/css" rel="stylesheet" href="http://tv.sohu.com/upload/jq_plugin/search/skin/search.css" />
+<link type="text/css" rel="stylesheet" href="http://tv.sohu.com/upload/tv110421/reback.css" />
+<script type="text/javascript" src="http://tv.sohu.com/upload/jq_plugin/search/search.js"></script>
+<script src="http://tv.sohu.com/upload/tv110421/js/play_login.js"></script>
+<script>
+hidResult = sohuHD._searchInit(jQuery('#sKey'));
+</script>
+	</div>
+</div>
+</div>
+
+<script type="text/javascript" src=" http://js.sohu.com/library/jquery1.4.2.js"></script>
+<link type="text/css" rel="stylesheet" href="http://tv.sohu.com/upload/zhuantidaohang/global1.31.css" />
+
+
+
+<script type="text/javascript" language="javascript" src="http://yule.survey.sohu.com/api/poll_json.php?poll_id=62446" ></script> 
+  
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script>
+<script language="javascript">
+$(function(){
+$('li').hover(
+function(){$(this).addClass('pos_rel').find('div').addClass('dis_blo')},
+function(){$(this).removeClass('pos_rel').find('div').removeClass('dis_blo')});  
+})
+</script>
+
+
+<script type="text/javascript">
+function nTabs(thisObj,Num){
+if(thisObj.className == "active")return;
+var tabObj = thisObj.parentNode.id;
+var tabList = document.getElementById(tabObj).getElementsByTagName("li");
+for(i=0; i <tabList.length; i++)
+{
+  if (i == Num)
+  {
+   thisObj.className = "active"; 
+      document.getElementById(tabObj+"_Content"+i).style.display = "block";
+  }else{
+   tabList[i].className = "normal"; 
+   document.getElementById(tabObj+"_Content"+i).style.display = "none";
+  }
+} 
+}
+</script>
+
+
+
+<style>
+#channelNav {display:none}
+#indexNav {display:none}
+
+
+
+/* 全局定义 */
+
+body {background-image: url(http://i0.itc.cn/20140314/b25_537cf840_9f1b_d525_1cbd_d2e536af3f6d_1.jpg);background-repeat:no-repeat;background-color:#9d201a;background-position: center top;}
+div,ul,li{margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,p{text-align:left; font-weight:normal; padding:0; margin:0}
+.blank10{width:100%; height:10px; line-height:10px; margin:0 auto;}
+img{border:none}
+
+/* 碎片组 */
+.cut1{display:none}
+.cut2{display:none}
+.cut3{display:none}
+
+.cut0{width:980px;height:770px;margin:0 auto; background-color:#eceae0;}
+.cut0 .lc{width:270px; float:left;}
+.cut0 .cc{display:none}
+.cut0 .rc{width:694px; float:right;}
+
+
+
+
+/* 活动说明 */
+.activity{width:980px; height:364px; background-color:#eceae0;margin:0 auto; background-image:url(http://i2.itc.cn/20140320/b1c_5f2a5267_9df5_53ed_f430_63f01cb04095_1.jpg); background-repeat:no-repeat}
+
+.activity .txt{float:left;margin-left:60px;_margin-left:30px;margin-top:20px;width:880px;}
+.activity .txt .l{float:left;width:472px;margin-top:133px;}
+.activity .txt .r{float:right;width:357px;margin-top:50px;}
+
+.activity h5{margin-top:20px;font-family:"微软雅黑"; font-size:12px; color:#4d3523; line-height:18px;}
+.activity h6{font-family:"微软雅黑"; font-size:12px; color:#532c2c; line-height:22px;}
+.activity h6 a{color:#532c2c; text-decoration:underline}
+.activity h6 a:hover{color:#999}
+
+
+.banner-980{width:980px; margin:0 auto; height:90px;padding-top:10px;background-color:#eceae0}
+.banner-980 img{border:none;}
+
+
+/* 18个瞬间 */
+.moments{width:980px;height:3310px;margin:0 auto;background-color:#eceae0;}
+.moments ul{width:930px; margin:0 auto; height:550px;}
+.moments .every{width:310px; float:left;}
+.moments .each{width:292px;margin:0 auto;height:530px; background-color:#FFF}
+.moments img{border:none; margin:0 auto; margin-bottom:15px;}
+
+.moments .vote{width:220px; margin:0 auto;height:44px;}
+.moments .vote .icon{border:none;width:101px; height:27px; float:left;}
+.moments .vote .icon a{border:none;width:101px; height:27px; float:left;background-image:url(http://i3.itc.cn/20120623/a04_a7cb5e8b_4d10_4daf_5681_acab7b145fee_2.jpg); background-repeat:no-repeat}
+.moments .vote .icon a:hover{border:none;width:101px; height:27px; float:left;background-image:url(http://i3.itc.cn/20120623/a04_a7cb5e8b_4d10_4daf_5681_acab7b145fee_1.jpg); background-repeat:no-repeat}
+.moments .vote .result{width:100px; float:left;font-family:"微软雅黑"; font-size:18px; color:#ae2e3d; line-height:27px;height:27px; text-align:center}
+
+
+.moments li{display:inline; margin:0 auto;width:258px;border:0px solid #ededed;
+
+}
+.moments li p{width:258px; margin:0 auto;font-family:"微软雅黑"; font-size:12px; color:#7b7063; line-height:18px;}
+.moments li p span{color:#ae2e3d}
+.switch{display:none; 
+left:-146px;top:0px;
+width:258px;border:1px solid #cccccc;padding:16px;background:#fff;font-size:12px; font-family:"宋体";font-size:13px;line-height:20px; color:#666; text-align:left; background-color:#f4f4f4}
+.pos_rel{position:relative;}
+.dis_blo{position:absolute;display:block;}
+
+
+
+
+
+
+
+/* 右侧耳朵 */
+.nTab{width:660px; height:740px; float:left; border:0px solid #c5c5c5; background-color:#d9d3c3}
+
+.nTab .TabTitle{clear: both;width:660px;height: 92px;overflow: hidden; background-color:#cac0a5}
+
+.nTab .TabTitle ul{ width:630px;margin:0 auto;margin-top:6px;}
+.nTab .TabTitle li{float:left;width:126px;margin-top:4px; height:33px;cursor: pointer;list-style:none;font-size:14px; font-family: Georgia, "Times New Roman", Times, serif;line-height:32px; background-image:url(http://i2.itc.cn/20120624/a04_1284ea77_943f_26b2_dc94_9b179a299e81_1.jpg); border:none;}
+.nTab .TabTitle .active{ color:#ae2f3c;font-weight:bold;}
+.nTab .TabTitle .normal{color:#7B7063}
+
+
+.nTab .TabContent{width:auto;background:#d9d3c3;margin: 0px auto;padding:10px 0 0 0;}
+.none {display:none;}
+
+.nTab .TabContent .detail{width:660px;height:630px;float:right;}
+.nTab .TabContent .detail ul{width:630px; margin:0 auto;}
+.nTab .TabContent .detail li{float:left;width:126px;}
+.nTab .TabContent .detail li p {display:block;width:110px;height:83px;margin:8px auto 4px;position:relative;}
+.nTab .TabContent .detail img {display:block;margin:0 auto}
+.nTab .TabContent .detail li em{display:block;color:#4D3523; text-align:center; line-height:24px; font-family: "宋体"; font-size:12px; font-style:normal}
+.nTab .TabContent .detail li code {display:block;width:110px;height:20px; line-height:20px;background:#7B7063;position:absolute;left:0%;bottom:0%;opacity:0.5; -moz-opacity:0.5; filter:alpha(opacity=50);
+}
+.nTab .TabContent .detail li span {display:block;width:110px;height:20px; line-height:20px;background:none;position:absolute;left:5%;bottom:0%;color:white;text-align:left;}
+
+
+
+
+.artical{width:240px; float:right;height:740px; background-color:#FFF}
+.artical240{width:100%;height:46px; background-color:#cac0a5}
+.artical240 h2{width:100%; text-align:center; font-family:"微软雅黑"; font-size:14px;color:#ae2f3c; line-height:46px; font-weight:bold}
+.artical p{width:200px; margin:0 auto; line-height:22px; color:#7B7063; font-family: "新宋体";}
+.artical p span{color:#4D3523}
+.artical p a{color:#7B7063;text-decoration:underline}
+.artical p a:hover{color:#cc0000;}
+
+/* 忠诚度测试 */
+.friends-test{width:980px;margin:0 auto;height:3000px;margin:0 auto;background-color:#eceae0;}
+
+.friends-vote{width:920px; height:2950px;margin:0 auto;background-image:url(http://i3.itc.cn/20120702/a04_e69040c2_a365_46c2_df06_06841f92b3d9_1.jpg); background-color:#faf8ee;background-repeat:no-repeat; border:1px solid #d6d2bd;}
+.friends-vote h5{width:100%; height:194px;margin:0 auto;}
+.friends-vote ul{width:900px; margin:0 auto; padding:0;}
+.friends-vote .unit{width:224px; float:left}
+.friends-vote .unit .units{width:224px;height:260px; float:left}
+.friends-vote h2{width:224px;margin:0 auto;height:96px; padding:0;}
+
+.friends-vote .unit h3{width:190px; margin:0 auto;font-family:"微软雅黑"; font-size:13px; color:#4D3523; line-height:24px; height:78px;text-align:left; margin-top:20px;font-weight:bold}
+.friends-vote .unit li{width:200px; margin:0 auto;font-family:"新宋体"; font-size:12px; color:#5a5047; line-height:20px;height:40px;list-style:none;text-align:left}
+
+.friends-vote .button{width:100px;height:20px; float:left}
+.friends-vote h6{width:170px; float:left;font-family:"微软雅黑"; font-size:13px; color:#4D3523; line-height:20px; height:20px;text-align:left;}
+.friends-vote h6 a{ color:#4D3523}
+.friends-vote h6 a:hover{color:#b12f2f;}
+
+
+
+/* 老友记教我们 */
+.friends-told{width:980px; margin:0 auto; background-color:#eceae0;height:2910px;}
+.told{width:920px; margin:0 auto; background-image:url(http://i1.itc.cn/20120704/a04_90682e3f_4a7d_15f8_f995_e4d4252d28bb_2.jpg); background-repeat:no-repeat;background-color:#FFF; height:2910px; }
+.told .title{width:920px; height:265px; margin:0 auto;}
+
+.told .events{width:860px; margin:0 auto;}
+#left{float:left}
+#right{float:right}
+
+#h495{height:495px;}
+#h510{height:510px;}
+#h460{height:460px;}
+#h710{height:710px;}
+
+
+.told .event{width:414px;}
+.told .event h2{width:414px;margin:0 auto;}
+.told .event .txt{width:414px;}
+.told .event .txt-l{width:10px; float:left}
+.told .event .txt-r{width:10px; float:left}
+.told .event .txt-c{width:394px;float:left; background-color:#f4f2ec;}
+.told .event .txt-c h6{width:370px; margin:0 auto; text-align:left; font-family: 新宋体; font-size:12px; color:#6f532c; line-height:18px; padding-top:2px;}
+.told .event .txt-c ul{width:372px;margin:0 auto; padding-top:20px;}
+.told .event .txt-c li{width:186px; float:left; list-style:none}
+.told .event .txt-c img{margin:0 auto; border:none}
+.told .event .txt-c p{width:168px;margin:0 auto; text-align:left; font-family: 新宋体; font-size:12px; color:#6f532c; line-height:18px;padding-top:8px;}
+
+
+
+
+
+
+/* 老友记影响 */
+.inchina{width:980px; margin:0 auto; background:url(http://i2.itc.cn/20120704/a04_53dcc5d2_27de_db10_ea20_7ec39ccee720_1.jpg) no-repeat #eceae0}
+.inchina h2{width:980px; height:264px; margin:0 auto}
+.inchina .txt{width:820px;height:340px; margin:0 auto;}
+.inchina .txt li{width:410px; float:left; list-style:none}
+.inchina .txt p{width:380px; margin:0 auto;margin-top:4px;line-height:22px; font-family:微软雅黑; font-size:12px; color:#4d3523}
+.inchina .txt h6{width:380px; margin:0 auto;margin-top:12px;line-height:22px; font-family:微软雅黑; font-size:13px; font-weight:bold;color:#4d3523}
+
+.without{width:980px; margin:0 auto; background:url(http://i0.itc.cn/20120704/a04_2920202a_d478_c0d2_2122_7a1189f2883f_1.jpg) no-repeat #eceae0}
+.without h3{width:980px; height:337px; margin:0 auto}
+.without p{width:820px; margin:0 auto;margin-top:6px; font-family:新宋体; font-size:12px;color:#517079; line-height:20px;}
+.without h6{width:820px; margin:0 auto;margin-top:20px;line-height:20px; font-family:微软雅黑; font-size:13px; font-weight:bold;color:#517079;}
+
+
+</style>
+</head>
+<body>
+<div id=fullscreenad style="display:none"></div>
+<!--标准矸 st-->
+<div id="channelNav" class="Area">
+	<!--sas:mt:xhtml:st-->
+	
+
+	<style>#channelNav ul {margin-right:5px;width:auto;clear:none}</style>
+<ul class="right">
+	<li><a href="http://www.sohu.com/">搜狐首页</a></li><li>-</li>
+	<li class="red"><a href="http://news.sohu.com/">新闻</a></li><li>-</li>
+	<li><a href="http://sports.sohu.com/">体育</a></li><li>-</li>
+	<li><a href="http://s.sohu.com/">S</a></li><li>-</li>
+	<li><a href="http://yule.sohu.com/">娱乐</a></li><li>-</li>
+	<li><a href="http://tv.sohu.com/yule/">V</a></li><li>-</li>
+	<li class="red"><a href="http://business.sohu.com/">财经</a></li><li>-</li>
+	<li><a href="http://it.sohu.com/">IT</a></li><li>-</li>
+	<li><a href="http://auto.sohu.com/">汽车</a></li><li>-</li>
+	<li><a href="http://www.focus.cn">房产</a></li><li>-</li>
+	<li><a href="http://women.sohu.com/">女人</a></li><li>-</li>
+	<li><a href="http://tv.sohu.com/">视频</a></li><li>-</li>
+	<li><a href="http://my.tv.sohu.com/">播客</a></li><li>-</li>
+	<li><a href="http://t.sohu.com/">微博</a></li><li>-</li>
+	<li><a href="http://login.mail.sohu.com/">邮件</a></li><li>-</li>
+	<li><a href="http://blog.sohu.com/">博客</a></li><li>-</li>
+	<li><a href="http://club.sohu.com/">BBS</a></li><li>-</li>
+	<li><a href="http://comment2.news.sohu.com/">我说两句</a></li><li>-</li>
+	<li class="end"><a href="http://www.sogou.com/">搜狗</a></li>
+</ul>
+	<!--sas:mt:xhtml:end-->
+</div>
+<!--标准矸 end-->
+
+<sohuadcode></sohuadcode>
+
+<!--sas:mt:xhtml:start-->
+<style>
+.Organizers { width:980px; height:360px; margin:0 auto}
+</style>
+
+  <div class="Organizers">
+</div>
+<!--sas:mt:xhtml:end-->
+<div class="Area">
+<sohuadcode></sohuadcode>
+</div>
+<!--sas:mt:xhtml:start-->
+
+
+<!--sas:mt:xhtml:end-->
+
+<!--sas:mt:xhtml:start-->
+
+<!--sas:mt:xhtml:end-->
+
+<div class="blank5"></div>
+
+<div class="ad">
+<sohuadcode></sohuadcode>
+</div>
+
+
+ 
+<div class="cut0 Area">
+
+	<div class="lc">
+					<!--sas:mt:xhtml:start-->
+			<style>
+.share{ width:200px; margin:0 auto}
+#urlIcon{width:200px; margin:0 auto}
+</style>
+
+<div class="artical">
+
+<div class="artical240">
+<h2>《老友记》剧集信息</h2>
+</div>
+<div class="blank10"></div>
+
+
+<p><span>英文剧名：</span>Friends</p>
+<p><span>中文剧名：</span>老友记/六人行</p>
+<p><span>播出时间：</span>1994-2004</p>
+<p><span>出品公司：</span>美国NBC电视台</p>
+<p><span>剧集类型：</span>情景喜剧</p>
+<p><span>演员名单：</span></p>
+<p>瑞秋-格林：詹妮弗-安妮斯顿 饰</p>
+<p>菲比-布菲：丽莎-库卓 饰</p>
+<p>莫妮卡-盖勒：柯特妮-考克斯 饰</p>
+<p>钱德勒-宾：马修-派瑞 饰</p>
+<p>罗斯-盖勒：大卫-休默 饰</p>
+<p>乔伊-崔比安尼：马特-勒布朗 饰</p>
+
+<div class="blank10"></div>
+
+<p><strong>【搜狐视频独家策划】</strong></p>
+<p><a href="http://tv.sohu.com/s2012/friends/#test" target="_blank">①：《老友记》忠诚度测试</a></p>
+<p><a href="http://tv.sohu.com/s2012/friends/#moments" target="_blank">②：《老友记》20载难忘瞬间</a></p>
+<p><a href="http://tv.sohu.com/s2012/friends/#8things" target="_blank">③：《老友记》教我们的那些事</a></p>
+<p><a href="http://tv.sohu.com/s2012/friends/#effect" target="_blank">④：《老友记》的“老友效应”</a></p>
+<div class="blank10"></div>
+<p><a href="http://tv.sohu.com/20120719/n348528604.shtml" target="_blank">大鹏嘚吧嘚《老友记》特辑</a></p>
+<p><a href="http://pic.yule.sohu.com/group-357958.shtml" target="_blank">“老友会”主题派对</a></p>
+<p><a href="http://pinglun.sohu.com/s345610244.html" target="_blank">写下你心中的《老友记》情结</a></p>
+
+
+<div class="blank10"></div>
+
+<p><strong>【全十季在线观看】</strong></p>
+<p><a href="http://tv.sohu.com/s2012/0244/s345610329/" target="_blank">第一季</a>　　<a href="http://tv.sohu.com/s2012/0244/s345610639/" target="_blank">第二季</a>　　<a href="http://tv.sohu.com/s2012/0244/s345610640/" target="_blank">第三季</a></p>
+<p><a href="http://tv.sohu.com/s2012/0244/s345610641/" target="_blank">第四季</a>　　<a href="http://tv.sohu.com/s2012/0244/s345610642/" target="_blank">第五季</a>　　<a href="http://tv.sohu.com/s2012/0244/s345610643/" target="_blank">第六季</a></p>
+<p><a href="http://tv.sohu.com/s2012/0244/s345610644/" target="_blank">第七季</a>　　<a href="http://tv.sohu.com/s2012/0244/s345610645/" target="_blank">第八季</a>　　<a href="http://tv.sohu.com/s2012/0244/s345610646/" target="_blank">第九季</a></p>
+<p><a href="http://tv.sohu.com/s2012/0244/s345610647/" target="_blank">第十季</a>　　<a href="http://tv.sohu.com/s2012/lyjjhb/" target="_blank">《老友记》精华版</a></p>
+<p><a href="http://tv.sohu.com/s2012/aqgy3/" target="_blank">山寨也精彩：我叫《爱情公寓》</a></p>
+
+
+
+
+<div class="share">
+<script src="http://tv.sohu.com/upload/jq_plugin/j.js"></script>
+<script type="text/javascript" src="http://tv.sohu.com/upload/101116tvplay/js/share_pd.js"></script>
+</div>
+
+<div class="blank10"></div>
+</div>
+			<!--sas:mt:xhtml:end-->
+<sohuadcode></sohuadcode>
+			<!--sas:mt:xhtml:start-->
+			
+			<!--sas:mt:xhtml:end-->
+
+			<!--sas:mt:xhtml:start-->
+			
+			
+			
+			
+			
+			
+			
+			<!--sas:mt:xhtml:end-->
+
+
+	</div>
+	<div class="cc">
+			<!--sas:mt:xhtml:start-->
+			
+			<!--sas:mt:xhtml:end-->
+
+			<!--sas:mt:xhtml:start-->
+			
+			<!--sas:mt:xhtml:end-->
+
+
+<div class="text"></div>
+
+<div class="text"></div>
+
+<div class="text"></div>
+
+<div class="text"></div>
+
+<div class="text"></div>
+
+
+			
+	</div>
+	<div class="rc">
+		<!--sas:mt:xhtml:start-->
+		<div class="nTab">
+   
+    <div class="TabTitle">
+      <ul id="myTab0">
+        <li class="active" onclick="nTabs(this,0);">Season 01</li>
+        <li class="normal" onclick="nTabs(this,1);">Season 02</li>
+        <li class="normal" onclick="nTabs(this,2);">Season 03</li>
+        <li class="normal" onclick="nTabs(this,3);">Season 04</li>
+        <li class="normal" onclick="nTabs(this,4);">Season 05</li>
+       
+        <li class="normal" onclick="nTabs(this,5);">Season 06</li>
+        <li class="normal" onclick="nTabs(this,6);">Season 07</li>
+        <li class="normal" onclick="nTabs(this,7);">Season 08</li>
+        <li class="normal" onclick="nTabs(this,8);">Season 09</li>
+        <li class="normal" onclick="nTabs(this,9);">Season 10</li>
+       </ul>
+    </div>
+   
+    <div class="TabContent">
+    
+      <div id="myTab0_Content0">
+      <div class="detail">
+
+　　　　<ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958043.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i3.itc.cn/20120629/9f4_b87cf6f6_f278_e456_2ad7_5d088f9bb39a_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>莫妮卡的新室友</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958043.shtml" target="_blank">第一季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958041.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i2.itc.cn/20120629/9f4_312e015b_da74_128e_9831_12e6d681a16e_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>参加助产训练班</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958041.shtml" target="_blank">第一季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958039.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120629/9f4_4daa2618_1a96_44a6_474e_466b8fdea0b1_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>飞来横财</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958039.shtml" target="_blank">第一季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958037.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i1.itc.cn/20120629/9f4_16fabc54_5a97_305c_0a72_76cdd408ce1f_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔治先生</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958037.shtml" target="_blank">第一季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958030.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120629/9f4_714e88b8_d40d_b5c0_6f48_14f393fdf6a0_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>洗衣服</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958030.shtml" target="_blank">第一季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958028.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i1.itc.cn/20120629/9f4_6ba467a0_73b2_0ab3_96db_f3acf53346f5_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>屁股秀</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958028.shtml" target="_blank">第一季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958026.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i3.itc.cn/20120629/9f4_5753bca6_12ed_9a5f_17ee_bc681c96e5c6_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>纽约大停电</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958026.shtml" target="_blank">第一季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958024.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i2.itc.cn/20120629/9f4_26844bed_c4f3_8978_6274_6b0a58ea8912_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>娜娜死了两回</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958024.shtml" target="_blank">第一季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958020.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120629/9f4_a911a028_7960_17f6_8ccb_70d0dc3b4287_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>气球飞了</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958020.shtml" target="_blank">第一季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958018.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120629/9f4_4968bb77_1ff9_9178_027b_ae71bb53a429_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>猴子</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958018.shtml" target="_blank">第一季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958016.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i3.itc.cn/20120629/9f4_2945409f_4db6_1f96_cd06_d6767a47d9f8_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>宾太太(钱德之母)</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958016.shtml" target="_blank">第一季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958012.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i3.itc.cn/20120629/9f4_99dfdd38_0085_54b5_2288_1ad975bd6471_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>十二碗面条</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958012.shtml" target="_blank">第一季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958010.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i3.itc.cn/20120629/9f4_6cf00517_674b_10a1_e16b_a1f3ca29f681_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>看胸脯</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958010.shtml" target="_blank">第一季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958008.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120629/9f4_2094b3d7_696e_5904_2a71_efe62600372b_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>情人节糖果</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958008.shtml" target="_blank">第一季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958006.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120629/9f4_d0bde67a_0ebb_4a2f_868e_b2929520a541_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>大麻客</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958006.shtml" target="_blank">第一季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958001.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i1.itc.cn/20120629/9f4_c508609b_1370_0d45_b1dc_d8b25a85b700_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>双胞胎（上集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958001.shtml" target="_blank">第一季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957999.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>双胞胎（下集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957999.shtml" target="_blank">第一季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957997.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i2.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>玩扑克</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957997.shtml" target="_blank">第一季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957994.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>猴子被送走</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957994.shtml" target="_blank">第一季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957992.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>风流牙医</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957992.shtml" target="_blank">第一季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957990.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>假莫妮卡</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957990.shtml" target="_blank">第一季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957988.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>倒人胃口的约会</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957988.shtml" target="_blank">第一季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957986.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i0.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>本出世</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957986.shtml" target="_blank">第一季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346957972.shtml" target="_blank"><IMG alt=老友记第一季 src="http://i3.itc.cn/20120701/9f4_f71ea7e9_426e_a586_1bee_2c1324e93d42_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋恍然大悟</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346957972.shtml" target="_blank">第一季第24集</a></EM></LI>
+
+</ul>
+      
+　　　　</div>
+      </div>
+      
+     <div id="myTab0_Content1" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958933.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯的新女友</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958933.shtml" target="_blank">第二季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958931.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>母乳</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958931.shtml" target="_blank">第二季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958929.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>海先生之死</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958929.shtml" target="_blank">第二季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958917.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的丈夫 </SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958917.shtml" target="_blank">第二季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958915.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>五块牛排和一根茄子</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958915.shtml" target="_blank">第二季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958912.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>宝宝落在巴士上了</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958912.shtml" target="_blank">第二季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958910.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯发现瑞秋心意</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958910.shtml" target="_blank">第二季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958908.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>清单</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958908.shtml" target="_blank">第二季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958906.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的爸爸</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958906.shtml" target="_blank">第二季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958903.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>纳斯（罗斯翻版）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958903.shtml" target="_blank">第二季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958900.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>同志婚礼</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958900.shtml" target="_blank">第二季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958898.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>超级杯后（上集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958898.shtml" target="_blank">第二季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958896.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>超级杯后（下集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958896.shtml" target="_blank">第二季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958894.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>高中舞会录影带</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958894.shtml" target="_blank">第二季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958892.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>生米终成熟饭</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958892.shtml" target="_blank">第二季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958890.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊搬走了</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958890.shtml" target="_blank">第二季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958888.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>艾迪搬来了</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958888.shtml" target="_blank">第二季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958886.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞摩瑞医生之死</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958886.shtml" target="_blank">第二季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958884.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>艾迪赖着不走</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958884.shtml" target="_blank">第二季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958882.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>猎狗之死</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958882.shtml" target="_blank">第二季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958880.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>两个小流氓</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958880.shtml" target="_blank">第二季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958878.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>一个头两个大</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958878.shtml" target="_blank">第二季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958876.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>出水痘</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958876.shtml" target="_blank">第二季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346958874.shtml" target="_blank"><IMG alt=老友记第二季 src="http://i1.itc.cn/20120703/4ac_9154938c_e076_5b7c_3ce5_f24277bb624f_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>巴利和明蒂大喜之日</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346958874.shtml" target="_blank">第二季第24集</a></EM></LI>
+
+</ul>
+      </div>
+      </div>
+      
+
+ <div id="myTab0_Content2" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959135.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_25.jpg" width="110" height="83"></a><CODE></CODE><SPAN>莉亚公主</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959135.shtml" target="_blank">第三季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959133.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>没人准备好</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959133.shtml" target="_blank">第三季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959131.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>果酱</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959131.shtml" target="_blank">第三季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959129.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>不再害怕承诺</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959129.shtml" target="_blank">第三季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959111.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的弟弟</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959111.shtml" target="_blank">第三季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959104.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>昔日重现</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959104.shtml" target="_blank">第三季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959102.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>赛车床</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959102.shtml" target="_blank">第三季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959100.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>戳他一下</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959100.shtml" target="_blank">第三季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959098.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>橄榄球比赛</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959098.shtml" target="_blank">第三季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959095.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋辞职</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959095.shtml" target="_blank">第三季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959089.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德泡了谁</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959089.shtml" target="_blank">第三季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959087.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>嫉妒</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959087.shtml" target="_blank">第三季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959085.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>只是做朋友</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959085.shtml" target="_blank">第三季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959083.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的旧搭档</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959083.shtml" target="_blank">第三季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959081.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯和瑞秋分手</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959081.shtml" target="_blank">第三季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959079.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>次日清晨</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959079.shtml" target="_blank">第三季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959077.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>滑雪之旅</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959077.shtml" target="_blank">第三季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959075.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>催眠录音带</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959075.shtml" target="_blank">第三季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959065.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>小小T恤</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959065.shtml" target="_blank">第三季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959063.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>玩偶屋</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959063.shtml" target="_blank">第三季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959061.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>小鸡和小鸭</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959061.shtml" target="_blank">第三季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959058.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>尖叫的汤米</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959058.shtml" target="_blank">第三季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959056.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯长了怪东西</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959056.shtml" target="_blank">第三季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959054.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i0.itc.cn/20120704/4ac_7ae26921_23fb_df40_fcf7_398fe2bffb1d_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>终极搏击比赛</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959054.shtml" target="_blank">第三季第24集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959052.shtml" target="_blank"><IMG alt=老友记第三季 src="http://i2.itc.cn/20120704/4ac_8f8c30f8_65c2_fc42_316b_1e0acf28504a_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>在海滩</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959052.shtml" target="_blank">第三季第25集</a></EM></LI>
+
+</ul>
+　　　　</div>
+      </div>
+      
+       <div id="myTab0_Content3" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959276.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>水母惊情</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959276.shtml" target="_blank">第四季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959274.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>转世灵猫</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959274.shtml" target="_blank">第四季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959272.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>手铐游戏</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959272.shtml" target="_blank">第四季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959255.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>社交舞</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959255.shtml" target="_blank">第四季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959253.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊的新女友</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959253.shtml" target="_blank">第四季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959251.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>“灰”姑娘</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959251.shtml" target="_blank">第四季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959249.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德横刀夺爱</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959249.shtml" target="_blank">第四季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959247.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>到箱子里过节</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959247.shtml" target="_blank">第四季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959244.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>参加派对</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959244.shtml" target="_blank">第四季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959242.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>帕基普希姑娘</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959242.shtml" target="_blank">第四季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959240.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比被借鸡生蛋</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959240.shtml" target="_blank">第四季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959233.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>受精卵</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959233.shtml" target="_blank">第四季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959231.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋坠入情网</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959231.shtml" target="_blank">第四季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959229.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊臭臭的一天</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959229.shtml" target="_blank">第四季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959227.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>橄榄球</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959227.shtml" target="_blank">第四季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959225.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>假派对</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959225.shtml" target="_blank">第四季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959223.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>免费成人电影</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959223.shtml" target="_blank">第四季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959221.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的新装</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959221.shtml" target="_blank">第四季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959214.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>忙中出错</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959214.shtml" target="_blank">第四季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959210.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>婚纱</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959210.shtml" target="_blank">第四季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959208.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>邀请</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959208.shtml" target="_blank">第四季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959204.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>史上最不称职伴郎</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959204.shtml" target="_blank">第四季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959202.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯的婚礼（上集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959202.shtml" target="_blank">第四季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959198.shtml" target="_blank"><IMG alt=老友记第四季 src="http://i0.itc.cn/20120705/4ac_80c875e4_aaa9_7585_1afa_32fa82b72c00_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯的婚礼（下集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959198.shtml" target="_blank">第四季第24集</a></EM></LI>
+
+
+</ul>
+　　　　</div>
+      </div>
+       <div id="myTab0_Content4" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959492.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯说漏嘴以后</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959492.shtml" target="_blank">第五季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959484.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>来吻别吧</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959484.shtml" target="_blank">第五季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959466.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>三胞胎</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959466.shtml" target="_blank">第五季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959452.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比讨厌PBS</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959452.shtml" target="_blank">第五季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959448.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>我不想当Kip</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959448.shtml" target="_blank">第五季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959444.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>雪男</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959444.shtml" target="_blank">第五季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959439.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯入伙</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959439.shtml" target="_blank">第五季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959435.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>感恩节大回顾</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959435.shtml" target="_blank">第五季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959424.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯的三明治</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959424.shtml" target="_blank">第五季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959420.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>兄妹“情”</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959420.shtml" target="_blank">第五季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959415.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>新年新气象</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959415.shtml" target="_blank">第五季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959409.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德的假笑</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959409.shtml" target="_blank">第五季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959407.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊背包包</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959407.shtml" target="_blank">第五季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959405.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>恍然大悟</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959405.shtml" target="_blank">第五季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959403.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>敲打乔伊的女孩</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959403.shtml" target="_blank">第五季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959401.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>警察来了</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959401.shtml" target="_blank">第五季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959399.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的无心之吻</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959399.shtml" target="_blank">第五季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959397.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋开始吸烟</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959397.shtml" target="_blank">第五季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959395.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯不会放电</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959395.shtml" target="_blank">第五季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959393.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>一起去巡逻</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959393.shtml" target="_blank">第五季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959391.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>掷球游戏</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959391.shtml" target="_blank">第五季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959381.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊的机会来了</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959381.shtml" target="_blank">第五季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959369.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>拉斯维加斯之旅上</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959369.shtml" target="_blank">第五季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959336.shtml" target="_blank"><IMG alt=老友记第五季 src="http://i0.itc.cn/20120710/4ac_3f83012a_c709_3607_587b_37d55695ea59_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>拉斯维加斯之旅下</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959336.shtml" target="_blank">第五季第24集</a></EM></LI>
+
+
+</ul>
+　　　　</div>
+      </div>
+         
+ <div id="myTab0_Content5" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959594.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_25.jpg" width="110" height="83"></a><CODE></CODE><SPAN>离开拉斯维加斯</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959594.shtml" target="_blank">第六季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959590.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯拥抱瑞秋</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959590.shtml" target="_blank">第六季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959586.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯死不认帐</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959586.shtml" target="_blank">第六季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959551.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊没买保险</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959551.shtml" target="_blank">第六季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959546.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊的保时捷</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959546.shtml" target="_blank">第六季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959540.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>他们的最后一夜</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959540.shtml" target="_blank">第六季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959538.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比跑步</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959538.shtml" target="_blank">第六季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959535.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯洗牙</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959535.shtml" target="_blank">第六季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959529.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯兴奋起来</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959529.shtml" target="_blank">第六季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959522.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>狂舞</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959522.shtml" target="_blank">第六季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959520.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>一张桌子</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959520.shtml" target="_blank">第六季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959513.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>笑话</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959513.shtml" target="_blank">第六季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959496.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的妹妹</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959496.shtml" target="_blank">第六季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959494.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德哭不出来</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959494.shtml" target="_blank">第六季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959486.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>假想篇外篇（上集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959486.shtml" target="_blank">第六季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959479.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>假想篇外篇（下集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959479.shtml" target="_blank">第六季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959455.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>临危不惧处变不惊</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959455.shtml" target="_blank">第六季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959450.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯约会学生</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959450.shtml" target="_blank">第六季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959446.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊的冰箱</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959446.shtml" target="_blank">第六季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959441.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>麦克和奇思</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959441.shtml" target="_blank">第六季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959437.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯和未来岳父</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959437.shtml" target="_blank">第六季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959426.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>Paul的故事</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959426.shtml" target="_blank">第六季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959422.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>订婚戒指</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959422.shtml" target="_blank">第六季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959418.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>求婚（上集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959418.shtml" target="_blank">第六季第24集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959411.shtml" target="_blank"><IMG alt=老友记第六季 src="http://i1.itc.cn/20120710/4ac_2d01a7d0_76dd_e143_ed07_2f54568f8ec0_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>求婚（下集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959411.shtml" target="_blank">第六季第25集</a></EM></LI>
+
+</ul>
+　　　　</div>
+      </div>
+      
+       <div id="myTab0_Content6" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959714.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>莫妮卡风头被抢了</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959714.shtml" target="_blank">第七季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959708.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的书</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959708.shtml" target="_blank">第七季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959692.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的饼干配方</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959692.shtml" target="_blank">第七季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959683.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋请助理</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959683.shtml" target="_blank">第七季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959676.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>订婚照</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959676.shtml" target="_blank">第七季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959654.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>小睡的伙伴</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959654.shtml" target="_blank">第七季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959646.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯在图书馆</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959646.shtml" target="_blank">第七季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959642.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德不喜欢狗</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959642.shtml" target="_blank">第七季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959640.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>糖果</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959640.shtml" target="_blank">第七季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959633.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>节日犰狳</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959633.shtml" target="_blank">第七季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959631.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>酪饼</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959631.shtml" target="_blank">第七季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959628.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>一夜未眠</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959628.shtml" target="_blank">第七季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959626.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>Rosita之死</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959626.shtml" target="_blank">第七季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959624.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>三十岁</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959624.shtml" target="_blank">第七季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959618.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊换脑</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959618.shtml" target="_blank">第七季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959611.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>你在伦敦干了什么</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959611.shtml" target="_blank">第七季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959600.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>婚纱大减价</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959600.shtml" target="_blank">第七季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959598.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊获提名</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959598.shtml" target="_blank">第七季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959596.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>莫妮卡的表亲</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959596.shtml" target="_blank">第七季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959592.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的同性之吻</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959592.shtml" target="_blank">第七季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959588.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>宣誓</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959588.shtml" target="_blank">第七季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959584.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德之父</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959584.shtml" target="_blank">第七季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959556.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>大喜之日（上集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959556.shtml" target="_blank">第七季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959549.shtml" target="_blank"><IMG alt=老友记第七季 src="http://i2.itc.cn/20120710/4ac_f807d9b5_6c21_d56a_ad87_9f3283a5a05d_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>大喜之日（下集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959549.shtml" target="_blank">第七季第24集</a></EM></LI>
+
+</ul>
+　　　　</div>
+      </div>
+      
+       <div id="myTab0_Content7" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959839.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>婚礼之后</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959839.shtml" target="_blank">第八季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959833.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>红色毛衣</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959833.shtml" target="_blank">第八季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959829.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>告知罗斯</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959829.shtml" target="_blank">第八季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959823.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>录影带风波</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959823.shtml" target="_blank">第八季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959817.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的男友</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959817.shtml" target="_blank">第八季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959811.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>万圣节派对</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959811.shtml" target="_blank">第八季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959799.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>有污点的那个</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959799.shtml" target="_blank">第八季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959775.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>脱衣舞娘</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959775.shtml" target="_blank">第八季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959765.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>谣言</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959765.shtml" target="_blank">第八季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959758.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>摩妮卡的靴子</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959758.shtml" target="_blank">第八季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959747.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯迈步向前行</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959747.shtml" target="_blank">第八季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959743.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊跟瑞秋约会</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959743.shtml" target="_blank">第八季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959739.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德泡澡记</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959739.shtml" target="_blank">第八季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959733.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>秘密衣柜</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959733.shtml" target="_blank">第八季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959721.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>生产录影带</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959721.shtml" target="_blank">第八季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959718.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔依告诉瑞秋</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959718.shtml" target="_blank">第八季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959712.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>茶叶算命法</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959712.shtml" target="_blank">第八季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959710.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>马沙皮卡市</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959710.shtml" target="_blank">第八季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959705.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>专访乔伊</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959705.shtml" target="_blank">第八季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959690.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>宝宝欢迎会</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959690.shtml" target="_blank">第八季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959687.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>烹饪课程</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959687.shtml" target="_blank">第八季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959681.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>迟来的宝宝</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959681.shtml" target="_blank">第八季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959678.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋生产记（上）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959678.shtml" target="_blank">第八季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959657.shtml" target="_blank"><IMG alt=老友记第八季 src="http://i0.itc.cn/20120710/4ac_f095fbca_d863_e6bc_5948_3b98d5e3490a_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋生产记（下）</SPAN></P>
+<EM><a href="http://tv.sohu.com/20120630/n346959657.shtml" target="_blank">第八季第24集</a></EM></LI>
+
+</ul>
+　　　　</div>
+      </div>
+      
+       <div id="myTab0_Content8" class="none">
+      <div class="detail">
+      
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959858.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_24.jpg" width="110" height="83"></a><CODE></CODE><SPAN>无人求婚</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959858.shtml" target="_blank">第九季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959855.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_23.jpg" width="110" height="83"></a><CODE></CODE><SPAN>爱玛哭不停</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959855.shtml" target="_blank">第九季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959851.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_22.jpg" width="110" height="83"></a><CODE></CODE><SPAN>儿科医生</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959851.shtml" target="_blank">第九季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959849.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_21.jpg" width="110" height="83"></a><CODE></CODE><SPAN>鲨鱼</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959849.shtml" target="_blank">第九季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959847.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_20.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的生日宴</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959847.shtml" target="_blank">第九季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959837.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_19.jpg" width="110" height="83"></a><CODE></CODE><SPAN>男保姆</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959837.shtml" target="_blank">第九季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959835.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯的饶舌歌</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959835.shtml" target="_blank">第九季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959831.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的二妹</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959831.shtml" target="_blank">第九季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959825.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>他要了瑞秋号码</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959825.shtml" target="_blank">第九季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959821.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>在Tulsa过圣诞节</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959821.shtml" target="_blank">第九季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959819.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋复工</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959819.shtml" target="_blank">第九季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959813.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的老鼠</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959813.shtml" target="_blank">第九季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959809.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>莫妮卡飙歌</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959809.shtml" target="_blank">第九季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959806.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>相亲记</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959806.shtml" target="_blank">第九季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959787.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>打劫</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959787.shtml" target="_blank">第九季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959770.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>隆胸</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959770.shtml" target="_blank">第九季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959767.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>葬礼</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959767.shtml" target="_blank">第九季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959762.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>博彩</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959762.shtml" target="_blank">第九季第18集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959760.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的梦</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959760.shtml" target="_blank">第九季第19集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959745.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>肥皂剧派对</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959745.shtml" target="_blank">第九季第20集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959741.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>生育能力检查</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959741.shtml" target="_blank">第九季第21集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959737.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>精子捐献人</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959737.shtml" target="_blank">第九季第22集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959735.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>巴巴多斯岛上集</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959735.shtml" target="_blank">第九季第23集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959723.shtml" target="_blank"><IMG alt=老友记第九季 src="http://i0.itc.cn/20120710/4ac_0f92c67f_979a_f5a8_b20a_300358e0a24d_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>巴巴多斯岛下集</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959723.shtml" target="_blank">第九季第24集</a></EM></LI>
+
+
+
+</ul>
+　　　　</div>
+      </div>
+      
+       <div id="myTab0_Content9" class="none">
+      <div class="detail">
+      <ul>
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960061.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_18.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊亲了瑞秋之后</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960061.shtml" target="_blank">第十季第01集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960059.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_17.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯不难过</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960059.shtml" target="_blank">第十季第02集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960057.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_16.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯日光浴</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960057.shtml" target="_blank">第十季第03集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960055.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_15.jpg" width="110" height="83"></a><CODE></CODE><SPAN>爱玛的生日蛋糕</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960055.shtml" target="_blank">第十季第04集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960046.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_14.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的妹妹带孩子</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960046.shtml" target="_blank">第十季第05集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960038.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_13.jpg" width="110" height="83"></a><CODE></CODE><SPAN>罗斯的科研经费</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960038.shtml" target="_blank">第十季第06集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960036.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_12.jpg" width="110" height="83"></a><CODE></CODE><SPAN>家访</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960036.shtml" target="_blank">第十季第07集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960034.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_11.jpg" width="110" height="83"></a><CODE></CODE><SPAN>迟到的感恩节</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960034.shtml" target="_blank">第十季第08集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960020.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_10.jpg" width="110" height="83"></a><CODE></CODE><SPAN>BB的亲生母亲</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960020.shtml" target="_blank">第十季第09集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960018.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_9.jpg" width="110" height="83"></a><CODE></CODE><SPAN>钱德的风流事</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960018.shtml" target="_blank">第十季第10集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346960016.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_8.jpg" width="110" height="83"></a><CODE></CODE><SPAN>脱衣舞男之泪</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346960016.shtml" target="_blank">第十季第11集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959996.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_7.jpg" width="110" height="83"></a><CODE></CODE><SPAN>菲比的婚礼</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959996.shtml" target="_blank">第十季第12集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959944.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_6.jpg" width="110" height="83"></a><CODE></CODE><SPAN>乔伊说法语</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959944.shtml" target="_blank">第十季第13集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959942.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_5.jpg" width="110" height="83"></a><CODE></CODE><SPAN>康斯韦拉公主</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959942.shtml" target="_blank">第十季第14集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959940.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_4.jpg" width="110" height="83"></a><CODE></CODE><SPAN>埃斯特拉之死</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959940.shtml" target="_blank">第十季第15集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959938.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_3.jpg" width="110" height="83"></a><CODE></CODE><SPAN>瑞秋的欢送派对</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959938.shtml" target="_blank">第十季第16集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959936.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_2.jpg" width="110" height="83"></a><CODE></CODE><SPAN>大结局（上集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959936.shtml" target="_blank">第十季第17集</a></EM></LI>
+
+<LI>
+<P><a href="http://tv.sohu.com/20120630/n346959934.shtml" target="_blank"><IMG alt=老友记第十季 src="http://i2.itc.cn/20120710/4ac_ac643639_033b_3aa2_79b2_11a4cd0c8059_1.jpg" width="110" height="83"></a><CODE></CODE><SPAN>大结局（下集）</SPAN></P><EM><a href="http://tv.sohu.com/20120630/n346959934.shtml" target="_blank">第十季第18集</a></EM></LI>
+
+</ul>
+　　　　</div>
+      </div>
+      
+    </div>
+    
+    
+  </div>
+		<!--sas:mt:xhtml:end-->
+<sohuadcode></sohuadcode>
+<sohuadcode></sohuadcode>
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+                  <!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+                 <!--sas:mt:xhtml:start-->
+		
+		
+		
+		
+		
+		<!--sas:mt:xhtml:end-->
+
+	</div>
+	<div class="clear"></div>
+      
+</div>
+     
+
+<sohuadcode></sohuadcode>
+
+
+
+
+
+
+<sohuadcode></sohuadcode>
+
+
+
+
+<sohuadcode></sohuadcode>
+
+
+
+<div class="cut1 Area">
+
+	<div class="lc">
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<sohuadcode></sohuadcode>
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+	</div>
+	<div class="cc">
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<sohuadcode></sohuadcode>
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+
+	</div>
+	<div class="rc">
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+	</div>
+	<div class="clear"></div>
+         
+</div>
+
+
+<a name="moments"></a>
+
+
+<div class="activity">
+
+<div class="txt">
+
+<div class="l">
+<h5>　　1994年，“地球人都知道”的情景喜剧《老友记》（friends）在美国NBC电视台开播。2004年，《老友记》历经10年完美收官。2014年，20岁的《老友记》于3月15日全集登陆搜狐视频，带你追溯记忆重拾感动。</h5>
+<h5>　　我们难以忘记10年前6人携手告别的那天，3000多青年在纽约时代广场上含泪观看大结局的场面。十季的时光又长又短、又苦又甜，这部剧带来的个中冷暖只有一路走来的人才会懂得。当那间一直热闹、拥挤、嬉戏、喧嚣的公寓被搬空、当我们和他们一起最后一次回望这间公寓、当镜头最终定格在那令人哭笑不得却唏嘘感叹的6把钥匙，时代结束了。十季的《老友记》带给我们太多令人愉快和感动的记忆，属于你的又是哪一幕？</h5>
+</div>
+
+<div class="r">
+<h6 style="font-size:18px;line-height:26px;">　　匆匆那年，讲述我们自己的老友记</h6>
+<h6 style="font-size:18px;line-height:26px;">　　写感言 为你和TA赢双份正版周边</h6>
+
+<h6 style="margin-top:80px">　　微博@你的一位多年老友，截图《老友记》中的一句台词或一对角色来形容你们的友情，并写下心中最想对TA说的话，加#匆匆那年，我的老友记#标签，并<a href="http://weibo.com/tvsohu?topnav=1&wvr=5&topsug=1 " target="_blank">@搜狐视频电视剧</a>，将有机会为你和TA同时赢得珍贵周边礼品，留下专属于你们的独家记忆。 </h6>
+<h6 style="margin-top:40px">　　3月20日——4月10日</h6>
+
+</div>
+
+</div>
+
+
+</div>
+
+<sohuadcode></sohuadcode>
+
+
+<a name="test"></a>
+
+<div class="friends-test">
+<div class="friends-vote">
+<h5></h5>
+<form name="form1" method="post" action="http://yule.survey.sohu.com/poll/poll.php" target="_blank"  >
+
+
+
+<ul>
+
+<div class="unit" style="border-right:1px solid #d6d2bd">
+<h2><img src="http://i2.itc.cn/20120702/a04_35a0e2ef_793a_71ac_8afd_4afe6345e029_3.jpg" width="224" height="96"></h2>
+
+<div class=units><h3>1.Central Perk咖啡馆的冈瑟(Gunther)自称曾经演过肥皂剧，他出演的肥皂剧是什么?</h3>
+		<li><input type="radio" name="item[118514][]" id="item_624474" value="624474" /><label for="item_624474">　A 我所有的孩子<br>　　(All My Children)</label></li> 
+		
+		<li><input type="radio" name="item[118514][]" id="item_624475" value="624475" /><label for="item_624475">　B 我们生活的日子<br>　　(Days of Our Lives)</label></li> 
+		
+		<li><input type="radio" name="item[118514][]" id="item_624476" value="624476" /><label for="item_624476">　C 综合医院<br>　　(General Hospital)</label></li> 
+		
+		<li><input type="radio" name="item[118514][]" id="item_624477" value="624477" /><label for="item_624477">　D 另一个世界<br>　　(Another World)</label></li> 
+		
+</div><div class=units><h3>2.是谁告诉瑞秋罗斯对她不忠的?</h3>
+		<li><input type="radio" name="item[118515][]" id="item_624478" value="624478" /><label for="item_624478">　A 乔伊</label></li> 
+		
+		<li><input type="radio" name="item[118515][]" id="item_624479" value="624479" /><label for="item_624479">　B 冈瑟</label></li> 
+		
+		<li><input type="radio" name="item[118515][]" id="item_624480" value="624480" /><label for="item_624480">　C 克罗伊(Chloe)</label></li> 
+		
+		<li><input type="radio" name="item[118515][]" id="item_624481" value="624481" /><label for="item_624481">　D 钱德勒</label></li> 
+		
+</div><div class=units><h3>3.莫尼卡和瑞秋是怎样将他们的公寓从乔伊和钱德勒手中赢回来的?</h3>
+		<li><input type="radio" name="item[118516][]" id="item_624482" value="624482" /><label for="item_624482">　A 她们给他们篮球赛的票</label></li> 
+		
+		<li><input type="radio" name="item[118516][]" id="item_624483" value="624483" /><label for="item_624483">　B 她们恳求他们</label></li> 
+		
+		<li><input type="radio" name="item[118516][]" id="item_624484" value="624484" /><label for="item_624484">　C 莫尼卡和瑞秋吻了乔伊和钱德勒</label></li> 
+		
+		<li><input type="radio" name="item[118516][]" id="item_624485" value="624485" /><label for="item_624485">　D 莫尼卡和瑞秋在钱德勒和乔伊面前接吻一分钟</label></li> 
+		
+</div><div class=units><h3>4.乔伊为了拍一部电影去了拉斯维加斯，结果最后在一个饭店里装扮成什么?</h3>
+		<li><input type="radio" name="item[118517][]" id="item_624486" value="624486" /><label for="item_624486">　A 异形</label></li> 
+		
+		<li><input type="radio" name="item[118517][]" id="item_624487" value="624487" /><label for="item_624487">　B 角斗士</label></li> 
+		
+		<li><input type="radio" name="item[118517][]" id="item_624488" value="624488" /><label for="item_624488">　C 罗马战士</label></li> 
+		
+		<li><input type="radio" name="item[118517][]" id="item_624489" value="624489" /><label for="item_624489">　D 国王</label></li> 
+		
+</div><div class=units><h3>5.5.第一个让瑞秋产生性幻想的老友是?</h3>
+		<li><input type="radio" name="item[118518][]" id="item_624490" value="624490" /><label for="item_624490">　A 乔伊</label></li> 
+		
+		<li><input type="radio" name="item[118518][]" id="item_624491" value="624491" /><label for="item_624491">　B 钱德勒</label></li> 
+		
+		<li><input type="radio" name="item[118518][]" id="item_624492" value="624492" /><label for="item_624492">　C 罗斯</label></li> 
+		
+  <li><input type="radio" name="item[118518][]" id="item_624493" value="624493" /><label for="item_624493">　D 冈瑟</label></li> 
+		
+</div><div class=units><h3>6.莫尼卡曾经装扮成玛丽莲-梦露做诗应的五十年代风格的餐馆的名字是什么?</h3>
+		<li><input type="radio" name="item[118519][]" id="item_624494" value="624494" /><label for="item_624494">　A 亚利桑德罗<br>　　(Alexandro's)</label></li> 
+		
+		<li><input type="radio" name="item[118519][]" id="item_624495" value="624495" /><label for="item_624495">　B 月亮舞餐厅<br>　　(Moondance Diner)</label></li> 
+		
+		<li><input type="radio" name="item[118519][]" id="item_624496" value="624496" /><label for="item_624496">　C 美好五十年代<br>　　(Fabulous 50's)</label></li> 
+		
+		<li><input type="radio" name="item[118519][]" id="item_624497" value="624497" /><label for="item_624497">　D 摇滚<br>　　(Rockin' and Rollin')</label></li> 
+		
+</div><div class=units><h3>7.瑞秋最爱穿着睡觉的那件罗斯的短袖汗衫上写着什么?</h3>
+		<li><input type="radio" name="item[118520][]" id="item_624498" value="624498" /><label for="item_624498">　A 史前历史博物馆<br>(Museum of Prehistoric History)</label></li> 
+		
+		<li><input type="radio" name="item[118520][]" id="item_624499" value="624499" /><label for="item_624499">　B 福兰奇说“放松”<br>　　(Frankle says relax)</label></li> 
+		
+		<li><input type="radio" name="item[118520][]" id="item_624500" value="624500" /><label for="item_624500">　C 化石是我的朋友<br>　　(Fossils are my friends)</label></li> 
+		
+		<li><input type="radio" name="item[118520][]" id="item_624501" value="624501" /><label for="item_624501">　D 我爱纽约<br>　　(I Love NY)</label></li> 
+		
+</div><div class=units><h3>8.罗斯对送比萨饼的凯特琳颇有好感，但当他同凯特琳搭腔时却因为紧张而一直在谈什么?</h3> 
+		<li><input type="radio" name="item[118521][]" id="item_624502" value="624502" /><label for="item_624502">　A 恐龙是怎么灭绝的</label></li> 
+		
+		<li><input type="radio" name="item[118521][]" id="item_624503" value="624503" /><label for="item_624503">　B 盐水太妃糖不是用海水，而是用盐水做的</label></li> 
+		
+		<li><input type="radio" name="item[118521][]" id="item_624504" value="624504" /><label for="item_624504">　C 达尔文的进化论</label></li> 
+		
+		<li><input type="radio" name="item[118521][]" id="item_624505" value="624505" /><label for="item_624505">　D 煤气本来是无色无臭的</label></li> 
+		
+</div><div class=units><h3>9.乔伊有几个妹妹？</h3>
+		<li><input type="radio" name="item[118522][]" id="item_624506" value="624506" /><label for="item_624506">　A 7个</label></li> 
+		
+		<li><input type="radio" name="item[118522][]" id="item_624507" value="624507" /><label for="item_624507">　B 6个</label></li> 
+		
+		<li><input type="radio" name="item[118522][]" id="item_624508" value="624508" /><label for="item_624508">　C 5个</label></li> 
+		
+		<li><input type="radio" name="item[118522][]" id="item_624509" value="624509" /><label for="item_624509">　D 3个</label></li> 
+		
+</div><div class=units><h3>10.钱德勒为了摆脱简尼丝而编造了他将被派出国工作的谎言，他说他要去哪里？</h3>
+		<li><input type="radio" name="item[118523][]" id="item_624510" value="624510" /><label for="item_624510">　A 巴黎</label></li> 
+		
+		<li><input type="radio" name="item[118523][]" id="item_624511" value="624511" /><label for="item_624511">　B 越南</label></li> 
+		
+		<li><input type="radio" name="item[118523][]" id="item_624512" value="624512" /><label for="item_624512">　C 也门</label></li> 
+		
+		<li><input type="radio" name="item[118523][]" id="item_624513" value="624513" /><label for="item_624513">　D 刚果</label></li>
+        
+ </div>       
+</div>
+
+<div class="unit" style="border-right:1px solid #d6d2bd">
+<h2><img src="http://i3.itc.cn/20120702/a04_35a0e2ef_793a_71ac_8afd_4afe6345e029_2.jpg" width="224" height="96"></h2>
+
+<div class=units><h3>11.菲比跑步的时候像什么?</h3>
+		<li><input type="radio" name="item[118524][]" id="item_624514" value="624514" /><label for="item_624514">　A 猎豹</label></li> 
+		
+		<li><input type="radio" name="item[118524][]" id="item_624515" value="624515" /><label for="item_624515">　B 青蛙</label></li> 
+		
+		<li><input type="radio" name="item[118524][]" id="item_624516" value="624516" /><label for="item_624516">　C 傻瓜</label></li> 
+		
+		<li><input type="radio" name="item[118524][]" id="item_624517" value="624517" /><label for="item_624517">　D 小狗</label></li> 
+		
+</div><div class=units><h3>12.钱德勒在向莫尼卡求婚前来到理查德的住处，他发现莫尼卡曾经来过，因为……?</h3>
+		<li><input type="radio" name="item[118525][]" id="item_624518" value="624518" /><label for="item_624518">　A 他看见了莫尼卡的包</label></li> 
+		
+		<li><input type="radio" name="item[118525][]" id="item_624519" value="624519" /><label for="item_624519">　B 他看见桌上有莫尼卡最爱喝的饮料</label></li> 
+		
+		<li><input type="radio" name="item[118525][]" id="item_624520" value="624520" /><label for="item_624520">　C 理查德告诉他的</label></li> 
+		
+		<li><input type="radio" name="item[118525][]" id="item_624521" value="624521" /><label for="item_624521">　D 他碰见了莫尼卡</label></li> 
+		
+</div><div class=units><h3>13.钱德勒希望在他婚礼上表演的乐队是哪个?</h3>
+		<li><input type="radio" name="item[118526][]" id="item_624522" value="624522" /><label for="item_624522">　A 尸体<br>　　(The Carcass)</label></li> 
+		
+		<li><input type="radio" name="item[118526][]" id="item_624523" value="624523" /><label for="item_624523">　B 摇摆国王<br>　　(The Swing Kings)</label></li> 
+		
+		<li><input type="radio" name="item[118526][]" id="item_624524" value="624524" /><label for="item_624524">　C 流行王子<br>　　(The Pop Princes)</label></li> 
+		
+		<li><input type="radio" name="item[118526][]" id="item_624525" value="624525" /><label for="item_624525">　D 摇滚统治者<br>　　(The Rock Rulers)</label></li> 
+		
+</div><div class=units><h3>14.当罗斯和自己的学生伊莎贝丝约会后，是谁和伊莎贝丝的爸爸约会的？</h3>
+		<li><input type="radio" name="item[118527][]" id="item_624526" value="624526" /><label for="item_624526">　A 瑞秋</label></li> 
+		
+		<li><input type="radio" name="item[118527][]" id="item_624527" value="624527" /><label for="item_624527">　B 凯瑞</label></li> 
+		
+		<li><input type="radio" name="item[118527][]" id="item_624528" value="624528" /><label for="item_624528">　C 菲比</label></li> 
+		
+		<li><input type="radio" name="item[118527][]" id="item_624529" value="624529" /><label for="item_624529">　D 甄妮丝</label></li> 
+		
+</div><div class=units><h3>15.老友记的最后一句台词是什么？</h3>
+		<li><input type="radio" name="item[118528][]" id="item_624530" value="624530" /><label for="item_624530">　A 把我们的钥匙放到桌子上吧</label></li> 
+		
+		<li><input type="radio" name="item[118528][]" id="item_624531" value="624531" /><label for="item_624531">　B 钱德勒，抱好双胞胎</label></li> 
+		
+		<li><input type="radio" name="item[118528][]" id="item_624532" value="624532" /><label for="item_624532">　C 没有对话只有眼泪</label></li> 
+		
+		<li><input type="radio" name="item[118528][]" id="item_624533" value="624533" /><label for="item_624533">　D 我们去喝点咖啡……哪儿比较好？</label></li> 
+		
+</div><div class=units><h3>16.是哪位老友意外看到过瑞秋的胸部？</h3>
+		<li><input type="radio" name="item[118529][]" id="item_624534" value="624534" /><label for="item_624534">　A 罗斯</label></li> 
+		
+		<li><input type="radio" name="item[118529][]" id="item_624535" value="624535" /><label for="item_624535">　B 钱德勒</label></li> 
+		
+		<li><input type="radio" name="item[118529][]" id="item_624536" value="624536" /><label for="item_624536">　C 菲比</label></li> 
+		
+		<li><input type="radio" name="item[118529][]" id="item_624537" value="624537" /><label for="item_624537">　D 乔伊</label></li> 
+		
+</div><div class=units><h3>17.哪两位老友在中央咖啡店工作过？</h3>
+		<li><input type="radio" name="item[118530][]" id="item_624538" value="624538" /><label for="item_624538">　A 菲比和罗斯</label></li> 
+		
+		<li><input type="radio" name="item[118530][]" id="item_624539" value="624539" /><label for="item_624539">　B 莫妮卡和乔伊</label></li> 
+		
+		<li><input type="radio" name="item[118530][]" id="item_624540" value="624540" /><label for="item_624540">　C 瑞秋和菲比</label></li> 
+		
+		<li><input type="radio" name="item[118530][]" id="item_624541" value="624541" /><label for="item_624541">　D 瑞秋和乔伊</label></li> 
+		
+</div><div class=units><h3>18.乔伊父亲的名字是什么?</h3>
+		<li><input type="radio" name="item[118531][]" id="item_624542" value="624542" /><label for="item_624542">　A 福兰奇(Frankie)</label></li> 
+		
+		<li><input type="radio" name="item[118531][]" id="item_624543" value="624543" /><label for="item_624543">　B 约瑟夫(Joseph)</label></li> 
+		
+		<li><input type="radio" name="item[118531][]" id="item_624544" value="624544" /><label for="item_624544">　C 约翰(John)</label></li> 
+		
+		<li><input type="radio" name="item[118531][]" id="item_624545" value="624545" /><label for="item_624545">　D 鲁(Lu)</label></li> 
+		
+</div><div class=units><h3>19.乔伊有一个抱着睡觉的企鹅玩具(Bedtime penguin pal)，它的名字叫什么?</h3>
+		<li><input type="radio" name="item[118532][]" id="item_624546" value="624546" /><label for="item_624546">　A 钱德勒</label></li> 
+
+
+		
+		<li><input type="radio" name="item[118532][]" id="item_624547" value="624547" /><label for="item_624547">　B 哈格西(Hugsy)</label></li> 
+		
+		<li><input type="radio" name="item[118532][]" id="item_624548" value="624548" /><label for="item_624548">　C 杰克(Jake)</label></li> 
+		
+		<li><input type="radio" name="item[118532][]" id="item_624549" value="624549" /><label for="item_624549">　D 克林特(Klint)</label></li> 
+		
+</div><div class=units><h3>20.在钱德勒和莫尼卡的婚礼前，钱德勒的父亲想找莫尼卡借什么?</h3>
+		<li><input type="radio" name="item[118533][]" id="item_624550" value="624550" /><label for="item_624550">　A 银项链</label></li> 
+		
+		<li><input type="radio" name="item[118533][]" id="item_624551" value="624551" /><label for="item_624551">　B 钻石项链</label></li> 
+		
+		<li><input type="radio" name="item[118533][]" id="item_624552" value="624552" /><label for="item_624552">　C 珍珠项链</label></li> 
+		
+		<li><input type="radio" name="item[118533][]" id="item_624553" value="624553" /><label for="item_624553">　D 金项链</label></li>
+        
+ </div>       
+</div>
+
+<div class="unit" style="border-right:1px solid #d6d2bd">
+<h2><img src="http://i1.itc.cn/20120702/a04_35a0e2ef_793a_71ac_8afd_4afe6345e029_1.jpg" width="224" height="96"></h2>
+
+<div class=units><h3>21.钱德勒和乔伊订阅的电视节目报每次写的收件人是谁?</h3>
+		<li><input type="radio" name="item[118534][]" id="item_624555" value="624555" /><label for="item_624555">　A 钱德勒-宾先生<br>　　(Mr．Chandler Bing)</label></li> 
+		
+		<li><input type="radio" name="item[118534][]" id="item_624556" value="624556" /><label for="item_624556">　B 查南多勒-邦小姐<br>　　(Miss Chanandeler Bong)</label></li> 
+		
+		<li><input type="radio" name="item[118534][]" id="item_624557" value="624557" /><label for="item_624557">　C 钱德勒-崔比亚尼夫人<br>　　(Mrs．Chandler Tribbiani)</label></li> 
+		
+		<li><input type="radio" name="item[118534][]" id="item_624558" value="624558" /><label for="item_624558">　D 约瑟夫-邦先生<br>　　(Mr．Joseph Bong)</label></li> 
+		
+</div><div class=units><h3>22.乔伊和钱德勒最喜欢的电视节目是哪个?</h3>
+		<li><input type="radio" name="item[118535][]" id="item_624559" value="624559" /><label for="item_624559">　A 我们生活的日子<br>　　(Days of Our Lives)</label></li> 
+		
+		<li><input type="radio" name="item[118535][]" id="item_624560" value="624560" /><label for="item_624560">　B 花花公子<br>　　(Playboy)</label></li> 
+		
+		<li><input type="radio" name="item[118535][]" id="item_624561" value="624561" /><label for="item_624561">　C 护滩使者<br>　　(Baywatch)</label></li> 
+		
+		<li><input type="radio" name="item[118535][]" id="item_624562" value="624562" /><label for="item_624562">　D 芝麻街<br>　　(Sesame Street)</label></li> 
+		
+</div><div class=units><h3>23.老友中哪一位在其30岁生日的party前喝多了？</h3>
+		<li><input type="radio" name="item[118536][]" id="item_624563" value="624563" /><label for="item_624563">　A 乔伊</label></li> 
+		
+		<li><input type="radio" name="item[118536][]" id="item_624564" value="624564" /><label for="item_624564">　B 罗斯</label></li> 
+		
+		<li><input type="radio" name="item[118536][]" id="item_624565" value="624565" /><label for="item_624565">　C 莫妮卡</label></li> 
+		
+		<li><input type="radio" name="item[118536][]" id="item_624566" value="624566" /><label for="item_624566">　D 钱德勒</label></li> 
+		
+</div><div class=units><h3>24.罗斯和瑞秋的哪个妹妹约会过？</h3>
+		<li><input type="radio" name="item[118537][]" id="item_624567" value="624567" /><label for="item_624567">　A Jill</label></li> 
+		
+		<li><input type="radio" name="item[118537][]" id="item_624568" value="624568" /><label for="item_624568">　B Janice</label></li> 
+		
+		<li><input type="radio" name="item[118537][]" id="item_624569" value="624569" /><label for="item_624569">　C Amy</label></li> 
+		
+		<li><input type="radio" name="item[118537][]" id="item_624570" value="624570" /><label for="item_624570">　D Monica</label></li> 
+		
+</div><div class=units><h3>25.瑞秋是在哪里发现自己怀孕的？</h3>
+		<li><input type="radio" name="item[118538][]" id="item_624571" value="624571" /><label for="item_624571">　A 在和罗斯的约会中</label></li> 
+		
+		<li><input type="radio" name="item[118538][]" id="item_624572" value="624572" /><label for="item_624572">　B 一次跳舞</label></li> 
+		
+		<li><input type="radio" name="item[118538][]" id="item_624573" value="624573" /><label for="item_624573">　C 莫妮卡的婚礼上</label></li> 
+		
+		<li><input type="radio" name="item[118538][]" id="item_624574" value="624574" /><label for="item_624574">　D 菲比的婚礼上</label></li> 
+		
+</div><div class=units><h3>26.钱德勒和罗斯是怎么认识的?</h3>
+		<li><input type="radio" name="item[118539][]" id="item_624575" value="624575" /><label for="item_624575">　A 他们是大学同屋</label></li> 
+		
+		<li><input type="radio" name="item[118539][]" id="item_624576" value="624576" /><label for="item_624576">　B 通过莫妮卡</label></li> 
+		
+		<li><input type="radio" name="item[118539][]" id="item_624577" value="624577" /><label for="item_624577">　C 踢球时候认识的</label></li> 
+		
+		<li><input type="radio" name="item[118539][]" id="item_624578" value="624578" /><label for="item_624578">　D 一起读高中时候认识的</label></li> 
+		
+</div><div class=units><h3>27.哪位老友曾让乔伊深爱上了？</h3>
+		<li><input type="radio" name="item[118540][]" id="item_624579" value="624579" /><label for="item_624579">　A 莫妮卡</label></li> 
+		
+		<li><input type="radio" name="item[118540][]" id="item_624580" value="624580" /><label for="item_624580">　B 钱德勒</label></li> 
+		
+		<li><input type="radio" name="item[118540][]" id="item_624581" value="624581" /><label for="item_624581">　C 瑞秋</label></li> 
+		
+		<li><input type="radio" name="item[118540][]" id="item_624582" value="624582" /><label for="item_624582">　D 菲比</label></li> 
+		
+</div><div class=units><h3>28.乔伊演的《我们生活的日子》那部剧集，在里面他演的是什么？</h3>
+		<li><input type="radio" name="item[118541][]" id="item_624583" value="624583" /><label for="item_624583">　A 警察</label></li> 
+		
+		<li><input type="radio" name="item[118541][]" id="item_624584" value="624584" /><label for="item_624584">　B 动物园管理员</label></li> 
+		
+		<li><input type="radio" name="item[118541][]" id="item_624585" value="624585" /><label for="item_624585">　C 医生</label></li> 
+		
+		<li><input type="radio" name="item[118541][]" id="item_624586" value="624586" /><label for="item_624586">　D 消防员</label></li> 
+		
+</div><div class=units><h3>29.当初是谁无意戳破了罗斯是爱着瑞秋的？</h3>
+		<li><input type="radio" name="item[118542][]" id="item_624587" value="624587" /><label for="item_624587">　A 冈瑟</label></li> 
+		
+		<li><input type="radio" name="item[118542][]" id="item_624588" value="624588" /><label for="item_624588">　B 钱德勒</label></li> 
+		
+		<li><input type="radio" name="item[118542][]" id="item_624589" value="624589" /><label for="item_624589">　C 菲比</label></li> 
+		
+		<li><input type="radio" name="item[118542][]" id="item_624590" value="624590" /><label for="item_624590">　D 乔伊</label></li> 
+		
+</div><div class=units><h3>30.菲比有个真爱在俄国，他叫什么?</h3>
+		<li><input type="radio" name="item[118543][]" id="item_624591" value="624591" /><label for="item_624591">　A 丹尼</label></li> 
+		
+		<li><input type="radio" name="item[118543][]" id="item_624592" value="624592" /><label for="item_624592">　B 大卫</label></li> 
+		
+		<li><input type="radio" name="item[118543][]" id="item_624593" value="624593" /><label for="item_624593">　C 约翰尼</label></li> 
+		
+		<li><input type="radio" name="item[118543][]" id="item_624594" value="624594" /><label for="item_624594">　D 麦克</label></li>
+        
+</div>        
+</div>
+
+<div class="unit">
+<h2><img src="http://i2.itc.cn/20120702/a04_33f4fbd2_dd2a_01d7_eab9_9d75df6979eb_1.jpg" width="224" height="96"></h2>
+
+<div class=units><h3>31.为什么瑞秋没有嫁给巴里？</h3>
+		<li><input type="radio" name="item[118544][]" id="item_624595" value="624595" /><label for="item_624595">　A 巴里变成了gay</label></li> 
+		
+		<li><input type="radio" name="item[118544][]" id="item_624596" value="624596" /><label for="item_624596">　B 他搞了瑞秋的最好的朋友</label></li> 
+		
+		<li><input type="radio" name="item[118544][]" id="item_624597" value="624597" /><label for="item_624597">　C 瑞秋并不爱他</label></li> 
+		
+		<li><input type="radio" name="item[118544][]" id="item_624598" value="624598" /><label for="item_624598">　D 瑞秋爱上了其他人</label></li> 
+		
+</div><div class=units><h3>32.乔伊最喜欢的东西？</h3>
+		<li><input type="radio" name="item[118545][]" id="item_624599" value="624599" /><label for="item_624599">　A 购物和骑马</label></li> 
+		
+		<li><input type="radio" name="item[118545][]" id="item_624600" value="624600" /><label for="item_624600">　B 食物和美妞</label></li> 
+		
+		<li><input type="radio" name="item[118545][]" id="item_624601" value="624601" /><label for="item_624601">　C 足球和乒乓</label></li> 
+		
+		<li><input type="radio" name="item[118545][]" id="item_624602" value="624602" /><label for="item_624602">　D 电影和美妞</label></li> 
+		
+</div><div class=units><h3>33.罗斯曾经约会过一个很不讲卫生的姑娘，她叫什么？</h3>
+		<li><input type="radio" name="item[118546][]" id="item_624603" value="624603" /><label for="item_624603">　A Emily</label></li> 
+		
+		<li><input type="radio" name="item[118546][]" id="item_624604" value="624604" /><label for="item_624604">　B Mona</label></li> 
+		
+		<li><input type="radio" name="item[118546][]" id="item_624605" value="624605" /><label for="item_624605">　C Elisabeth</label></li> 
+		
+		<li><input type="radio" name="item[118546][]" id="item_624606" value="624606" /><label for="item_624606">　D Cheryl</label></li> 
+		
+</div><div class=units><h3>34.哪位老友从高中时候就交男友了？</h3>
+		<li><input type="radio" name="item[118547][]" id="item_624607" value="624607" /><label for="item_624607">　A 菲比</label></li> 
+		
+		<li><input type="radio" name="item[118547][]" id="item_624608" value="624608" /><label for="item_624608">　B 莫妮卡</label></li> 
+		
+		<li><input type="radio" name="item[118547][]" id="item_624609" value="624609" /><label for="item_624609">　C 瑞秋</label></li> 
+		
+		<li><input type="radio" name="item[118547][]" id="item_624610" value="624610" /><label for="item_624610">　D 没有</label></li> 
+		
+</div><div class=units><h3>35.菲比最后嫁给了谁？</h3>
+		<li><input type="radio" name="item[118548][]" id="item_624611" value="624611" /><label for="item_624611">　A  Frank Jr</label></li> 
+		
+		<li><input type="radio" name="item[118548][]" id="item_624612" value="624612" /><label for="item_624612">　B  David</label></li> 
+		
+		<li><input type="radio" name="item[118548][]" id="item_624613" value="624613" /><label for="item_624613">　C  Gary</label></li> 
+		
+		<li><input type="radio" name="item[118548][]" id="item_624614" value="624614" /><label for="item_624614">　D  Mike</label></li> 
+		
+</div><div class=units><h3>36.钱德勒是在哪里和莫妮卡求婚的？</h3>
+		<li><input type="radio" name="item[118549][]" id="item_624615" value="624615" /><label for="item_624615">　A 伦敦</label></li> 
+		
+		<li><input type="radio" name="item[118549][]" id="item_624616" value="624616" /><label for="item_624616">　B 他和乔伊的公寓</label></li> 
+		
+		<li><input type="radio" name="item[118549][]" id="item_624617" value="624617" /><label for="item_624617">　C 中央公园咖啡店</label></li> 
+		
+		<li><input type="radio" name="item[118549][]" id="item_624618" value="624618" /><label for="item_624618">　D 他和莫妮卡的公寓</label></li> 
+		
+</div><div class=units><h3>37.钱德勒从来不过的节日是？</h3>
+		<li><input type="radio" name="item[118550][]" id="item_624619" value="624619" /><label for="item_624619">　A 感恩节</label></li> 
+		
+		<li><input type="radio" name="item[118550][]" id="item_624620" value="624620" /><label for="item_624620">　B 光明节</label></li> 
+		
+		<li><input type="radio" name="item[118550][]" id="item_624621" value="624621" /><label for="item_624621">　C 情人节</label></li> 
+		
+		<li><input type="radio" name="item[118550][]" id="item_624622" value="624622" /><label for="item_624622">　D 圣诞节</label></li> 
+		
+</div><div class=units><h3>38.菲比为她给弟弟生的三胞胎其中一个起名为？</h3>
+		<li><input type="radio" name="item[118551][]" id="item_624623" value="624623" /><label for="item_624623">　A 乔伊</label></li> 
+		
+		<li><input type="radio" name="item[118551][]" id="item_624624" value="624624" /><label for="item_624624">　B 麦克</label></li> 
+		
+		<li><input type="radio" name="item[118551][]" id="item_624625" value="624625" /><label for="item_624625">　C 罗斯</label></li> 
+		
+		<li><input type="radio" name="item[118551][]" id="item_624626" value="624626" /><label for="item_624626">　D 钱德勒</label></li> 
+		
+</div><div class=units><h3>39.以下哪位是莫妮卡在《老友记》里最早出现的男友？</h3>
+		<li><input type="radio" name="item[118552][]" id="item_624627" value="624627" /><label for="item_624627">　A Richard</label></li> 
+		
+		<li><input type="radio" name="item[118552][]" id="item_624628" value="624628" /><label for="item_624628">　B Paul, the wine guy</label></li> 
+		
+		<li><input type="radio" name="item[118552][]" id="item_624629" value="624629" /><label for="item_624629">　C Fun Bobby</label></li> 
+		
+		<li><input type="radio" name="item[118552][]" id="item_624630" value="624630" /><label for="item_624630">　D Steve</label></li> 
+		
+</div><div class=units><h3>40.感恩节六个人一起去打橄榄球，乔伊和钱德勒一起看上了个姑娘，那个姑娘是哪国人？</h3>
+		<li><input type="radio" name="item[118553][]" id="item_624631" value="624631" /><label for="item_624631">　A 荷兰</label></li> 
+		
+		<li><input type="radio" name="item[118553][]" id="item_624632" value="624632" /><label for="item_624632">　B 瑞士</label></li> 
+		
+		<li><input type="radio" name="item[118553][]" id="item_624633" value="624633" /><label for="item_624633">　C 德国</label></li> 
+		
+		<li><input type="radio" name="item[118553][]" id="item_624634" value="624634" /><label for="item_624634">　D 俄国</label></li>
+        
+ </div>      
+</div>
+
+
+
+</ul>
+
+<div class="blank10"></div><div class="blank10"></div><div class="blank10"></div>
+
+
+<ul>
+
+<h6 style="margin-left:360px;_margin-left:180px;">
+ <input type="hidden" name="poll_id" id="poll_id" value="62658" />
+    <input type="hidden" name="channel_id" id="channel_id" value="11" />
+  <input type="submit" name="button" id="button" value="投票">
+</h6>
+ 
+ <h6>&gt;&gt;&gt;<a href="http://tv.sohu.com/s2012/friends_test/" target="_blank">正确答案是…</a></h6>
+ <h6>&gt;&gt;&gt;<a href="http://yule.survey.sohu.com/poll/result.php?poll_id=62658" target="_blank">网友这么认为…</a></h6>
+</ul>
+
+ 
+ 
+</form>
+
+
+<div class="blank10"></div><div class="blank10"></div>
+</div></div>
+
+
+<div class="banner-980">
+<img src="http://i2.itc.cn/20140314/b25_c5eb6de4_58af_21a8_9948_cfd62a504412_1.jpg" width="980" height="104">
+</div>
+<div class="moments">
+
+<ul>
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346145295.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/01.jpg" width="292" height="352"></a>
+
+<div class="vote"><div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620587&t=117814&c=11&s=caf8c8e109c8b981b4ef" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620587"]["ballot"]);</script></div></div>
+
+
+<li>
+<p>　　1994年的9月，披着湿漉漉的婚纱，瑞秋-格林急慌慌跑进了中央公园咖啡馆，她打断了莫妮卡、钱德勒、乔伊、菲比对罗斯的吐槽，却拉开一个黄金情景喜剧的10年大幕，并成为一代人的情感溯源<span>…More</span></p>
+<div class="switch">　　1994年的9月，披着湿漉漉的婚纱，瑞秋-格林急慌慌跑进了中央公园咖啡馆，她打断了莫妮卡、钱德勒、乔伊、菲比对罗斯的吐槽，却拉开一个黄金情景喜剧的10年大幕。<br>　　那时候六位老友和幕后主创从未想过这部剧会成为代表上世纪情景喜剧黄金盛世的作品，会成为一代人的情感溯源，他们甚至从没想过这部剧会火热、红爆甚至一拍10年，而关于《老友记》的所有故事都必须要从10年前这个普通的雨夜，落跑的新娘奔到可爱的咖啡馆的瞬间讲起，尽管那时候的瑞秋根本不知道自己跑来这里要什么和做什么，但是10年的时光会给她答案，最终她收获了独立、友情和傻瓜罗斯。</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346149938.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/02.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620588&t=117814&c=11&s=0f47c3137537d2ad3a17" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620588"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　18年前还不流行宅男，但怪怪的科学家罗斯无疑是当时的宅男代言人。他爱科学、讲恐龙，各种死板说教，还养了一只明星猴子叫马修，小猴子在第一季中扮演了许多至关重要的纽带角色，也让罗斯第一次明白爸爸的感觉<span>…More</span></p>
+<div class="switch">　　18年前还不流行宅男，不过怪怪的科学家罗斯无疑就是当时的宅男代言人，他爱科学、讲恐龙，各种死板说教外，连养宠物都如此有技术含量，他养了一只明星猴子，叫做马修，小猴子在第一季中扮演了许多至关重要的纽带角色，比如跑丢了让瑞秋着急，或者对罗斯发脾气遭朋友吐槽，但最感人的场面无疑是罗斯问自己的父亲做爸爸的感觉，老盖勒告诉儿子就在他身后，小手紧紧地握住自己手指的刹那，那是身为一个父亲的幸福、理想与责任感降临的时刻。<br>　　后来猴子马修吞了一堆拼字游戏进肚子里，吓得罗斯带它做手术，马修醒过来，就忽然乖乖的握住了罗斯的手指，那一刻，罗斯感觉到为父时候的那种幸福，同时也是一种无声的承诺和爱。</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346141383.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/03.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620589&t=117814&c=11&s=6b3880e722b6c1525e26" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620589"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　罗斯和瑞秋在黑白光影的中央公园外紧紧拥吻的剧照早就成了这18年来最经典的一张剧照，人们甚至用“RR初吻”来形容爱情的动情瞬间，《老友记》将这一幕处理得跌宕起伏又幽默动人，罗斯长久的等待终于有了结果<span>…More</span></p>
+<div class="switch">　　罗斯和瑞秋在黑白光影的中央公园外紧紧拥吻的剧照早就成了这18年来最经典的一张剧照，人们甚至用“RR初吻”来形容爱情的动情瞬间，《老友记》将这一幕处理得跌宕起伏又幽默动人，当时罗斯带回了一个华裔女友朱莉，在得知瑞秋爱上自己后各种犹豫和纠结，瑞秋也无奈又愤怒，两个人在咖啡店大吵了一架，罗斯摔门而去，而瑞秋则锁紧了咖啡店门，一个人坐在沙发上掩面哭泣，怎么会有表白的时候吵起来的事情发生呢？顶着一脑门怒火一走了之的罗斯折返回到店门口，瑞秋打开好几把锁，门还是开不了。罗斯说：“试试最下边那道锁。”门打开了，罗斯和他傻傻又稚拙的爱在雨中回到了瑞秋的身边，那一刻，长久的等待终于有了结果。</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+</ul>
+
+<ul>
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346213082.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/04.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620590&t=117814&c=11&s=0c7e7dc1f2340f4aea9d" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620590"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　茱莉亚-罗伯茨在当年的那场惊艳客串可谓大牌又热烈，客串的苏西报复钱德勒十年前恶作剧的一幕热辣、挑逗、邪恶，因罗伯茨的性感出位表演显得更为张力十足。戏外马修可是得到大美女的青睐，两个人短暂的交往了一段<span>…More</span></p>
+<div class="switch">　　茱莉亚-罗伯茨在当年的那场惊艳客串可谓大牌又热烈，这位美女饰演钱德勒的中学女同学苏西，在读书时候被钱德勒恶作剧，掀起了裙子当众露出内裤，其后多年大家一直叫她内裤苏西，不过所谓，美女报仇，十年不晚，10多年后，苏西主动泡上了钱德勒，让他在厕所干脆利索的脱到只剩内裤，继而扬长而去。这一幕热辣、挑逗、邪恶，因茱莉亚-罗伯茨的性感出位表演显得更为张力十足。<br>　　虽然钱德勒在里面被苏西整了，可是在戏外，马修可是得到了大美女的青睐，两个人短暂的交往了一段，便成为了好莱坞一场普通的露水情缘了……
+</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346212537.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/05.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620591&t=117814&c=11&s=3557d6a4832f638d94f2" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620591"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　不靠谱的乔伊想做个邮件箱，但因为工种不熟练阴错阳差弄坏了钱德勒的门，钱德勒开门时候一个前滚翻就翻了进去。这个瞬间被美国人民评为最爱之一，自然挥洒又出乎意料的默契和幽默感都用几秒钟表现出来了<span>…More</span></p>
+<div class="switch">　　不靠谱的乔伊想做个邮件箱，但是做着做着忽然想把这件事升级，于是钱德勒问他：那么你是想盖个邮局啦？其实乔伊想做个大柜子，说风是雨的干了起来，但是因为工种不熟练，所以他弄坏了钱德勒的门，钱德勒开门时候一个前滚翻就翻了进去。这个瞬间被美国人民评为最爱瞬间之一，自然挥洒又出乎意料的默契感和幽默感都用几秒钟表现出来了。</div>
+</li>
+
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346212514.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/06.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620592&t=117814&c=11&s=aa8ba4afdf9bdaa5f62f" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620592"]["ballot"]);</script></div></div>
+
+
+<li>
+<p>　　前两季中，一位令人印象深刻的酱油就是六位老友楼上的那位怪异老单身海先生。就在人们以为海先生会永远住在楼下骚扰他们时，老爷子在一片跺脚声中暴毙了，临终遗言是：我把我的东西留给楼上吵闹的娃们<span>…More</span></p>
+<div class="switch">　　在前两季中，《老友记》的一位令人印象深刻的酱油就是六位老友楼上的那位怪异老单身海先生，他顶着一头爱因斯坦般的乱发、穿着病号服一样的睡衣，总是像根竹竿一样呆滞的飘来飘去，最常做的事情就是来斥责年轻的老友们太吵太聒噪了。就在人们以为海先生会永远住在楼下骚扰他们时，老爷子在一片跺脚声中暴毙了，临终遗言是：我把我的东西留给楼上吵闹的娃们。<br>　　大家跑去收拾海先生东西时候，钱德勒忽然觉得这老头挑剔怪癖不敢与人建立亲密关系的性格和自己很相近，他绝望的想自己会不会孤独终老，于是这场鸡飞狗跳的收拾逝者遗物的活动变成调戏和治愈钱德勒的行动。这一幕的最后，在嬉戏恶搞的气氛里，钱德勒最后一个离开了房间，他关上灯，对着空空如也的房间，轻轻的说：“再见，海先生，我们会尽量安静一些的……”</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+</ul>
+
+<ul>
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346145304.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/07.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620593&t=117814&c=11&s=383890cb1bb04ae35ac6" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620593"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　这一集是《老友记》史上最高收视率的一集，也是前期的经典范本。6个人去打了场妙趣横生的橄榄球赛，球场上的互动将群戏在一个场景下，用短促有力却简单的线条串起来，无比幽默、爆笑又鲜明<span>…More</span></p>
+<div class="switch">　　第三季的第9集是《老友记》史上最高收视率的一集，6个人去打了场妙趣横生的橄榄球赛，从这一集的橄榄球场上的几场互动可见，这个情景喜剧在剧本推动上的精致和斟酌，乔伊和钱德勒争场外女友、莫妮卡和罗斯还童年夙愿、菲比各种热闹无厘头，而运动神经欠佳的瑞秋则笨笨的跑来跑去，她还为此发了罗斯的脾气，中间历经各种换队员、大吵架、撕衣服，最终停在罗斯和莫妮卡抱住了球的瞬间。这是《老友记》前期的经典范本，将群戏在一个场景下，用短促有力却简单的线条串起来，无比幽默、爆笑又鲜明。</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346213809.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/08.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620594&t=117814&c=11&s=1409eb0d826c78b8f498" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620594"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　罗斯和瑞秋的分手是第三季的转折点，记得许多在当时追看这部剧的人都表示，从没想过RR的这次分手会让他们等上7年这么久。瑞秋那种悲愤激烈到嗓子都辟了的激动非常的自然，而罗斯最后跪在瑞秋面前的表演相当真挚<span>…More</span></p>
+<div class="switch">　　罗斯和瑞秋的分手是《老友记》第三季的转折点，记得许多在当时追看这部剧的人都表示，从没想过RR的这次分手会让他们等上7年这么久，其实只是一个小小的误会，两位不能各让一步吗？大概爱情每一步都无法相让，于是有了下面的对话“我不敢想象，我的世界没有你会怎么样？没有你温柔的抚摸，没有你深情地凝视，没有你贴心的挂念，没有你使我赖以生存的爱。瑞秋，我们可不可以重归于好？”“我很想，但是不能。你已经不是我爱过的那个罗斯了，因为那个罗斯绝不会做伤害我的事，永远不会。”<br>　　安妮斯顿和大卫在《老友记》之后再也没有奉献如此精彩的表演，两个人的默契表现很容易引人入戏，瑞秋那种悲愤激烈到嗓子都辟了的激动非常的自然，而罗斯最后跪在瑞秋面前的表演相当真挚，可惜两位还是在这里分手告别了……</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346220154.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/09.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620595&t=117814&c=11&s=d99b33acd12a64c8f2be" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620595"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　第四季中，莫妮卡激情指导钱德勒做爱的片段也是美国人民在评选中的最爱桥段，因为它够黄够型够放得开。再进一步讲，看来男人真的需要个女性闺蜜，因为她会在关键时候给予你最强有力的指导<span>…More</span></p>
+<div class="switch">　　第四季中，莫妮卡激情指导钱德勒做爱的片段也是美国人民在评选中的最爱桥段，因为它够黄够型够放得开，原剧本就是这样清楚的写着“Monica: 1, a 2, a 1-2-3, 3, 5, a 4, a 3-2, 2, a 2-4-6, 2-4-6, 4, (Rachel starts getting worked up) 2, 2, 4-7, 5-7, 6-7, 7, …7..…7…7-7-7-7-7-7-7-7-7-7-7-7…(mouths 7)! ”不用怀疑，三位主演把这个剧本发挥到趣味的极致。<br>　　而再进一步讲，看来男人真的需要个女性闺蜜，因为她会在关键时候给予你最强有力的指导，无论是爱情的观点还是女性的G点，钱德勒受益匪浅……他女友当晚就跑过来跟莫尼卡激情致谢。</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+</ul>
+
+<ul>
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346213941.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/10.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620596&t=117814&c=11&s=619be65d3b726fcbae44" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620596"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　备受打击的瑞秋千里迢迢跑来破坏婚礼，见了瑞秋的罗斯有点恍惚，所以在婚礼中……念错了名字，默默成为离婚男……这个段落也是将意外、深情、无奈和无常用极端又简单的神来之笔结合起来，堪称当年的最佳结尾<span>…More</span></p>
+<div class="switch">　　这也是《老友记》极具挑战性和意外感的一段，备受打击的瑞秋千里迢迢跑来破坏婚礼，飞机上还碎碎念了一路她要把罗斯抢回来，立下宣言说：只要他没结婚我就不会放弃。可真的走到罗斯面前，她却欲言又止了，最终他对罗斯说：祝贺你。不知道罗斯是不是见了瑞秋有点恍惚，所以在婚礼中……念错了名字，他也就此默默成为了个离婚男……这个段落也是将意外、深情、无奈和无常用极端又简单的神来之笔结合起来，堪称当年的最佳结尾。</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346220057.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/11.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620597&t=117814&c=11&s=c033f79d218c0d6356dd" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620597"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　饰演菲比的丽莎-库卓在这一季怀孕，于是剧组为她安排了一个奇妙的怀孕段子——代孕妈妈，这个奇突之举菲比做起来却无比自然，而她在生产后，抱着她的三胞胎泪流满面的瞬间也动情诠释怀胎十月的各种情怀与辛酸<span>…More</span></p>
+<div class="switch">　　饰演菲比的女星丽莎-库卓在这一季怀孕，于是剧组也为她安排了一个奇妙的怀孕段子，这位善良怪异的姑娘居然决定当自己弟弟和弟弟老情人的代孕妈妈，怀上他们的娃，为他们造人，这个奇突之举菲比做起来却无比自然，奉献精神与生俱来，而她在生产后，抱着她的三胞胎泪流满面的瞬间也动情诠释怀胎十月为人母的各种情怀与辛酸。</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346220665.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/12.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620598&t=117814&c=11&s=b6456947d3f14a0f0ec0" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620598"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　钱德勒趴在门上邀请莫妮卡一起同住，这开启了一个重新分组新篇章，前四季人们习惯的看着莫妮卡和瑞秋同进出，看着钱德勒和乔伊好基友的模式在这里被打断，《老友记》逐渐从年轻朋友向组建家庭方向靠拢<span>…More</span></p>
+<div class="switch">　　钱德勒趴在门上邀请莫妮卡一起同住，这开启了《老友记》的一个重新分组新篇章，在前四季中人们习惯的看着莫妮卡和瑞秋同进出，看着钱德勒和乔伊好基友的模式在这里被打断，《老友记》逐渐从年轻朋友向组建家庭方向靠拢。<br>　　钱德勒告别乔伊的房子，各种不放心，他甚至还想方设法给乔伊留了点钱，而瑞秋则开始没当真，最后被通牒后免不了哭了一场，她穿着花花的风衣告别了莫妮卡的房子后，莫妮卡说：“天啊，这简直是一个时代的结束。”</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+</ul>
+
+<ul>
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346220061.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/13.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620599&t=117814&c=11&s=711f2f222fcf02b597c6" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620599"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　想让钱德勒先生结婚可不是件容易事，《老友记》用了整整六年的时间来数落他的童年阴影、责任逃避症、婚姻恐慌症，当他决定一定要娶莫妮卡为妻的时候，整个摄影棚的群众们都发出了最轰轰烈烈的罐装笑声与掌声<span>…More</span></p>
+<div class="switch">　　想让钱德勒先生结婚可不是件容易事，《老友记》用了整整六年的时间来数落他的童年阴影、责任逃避症、婚姻恐慌症，当他决定一定要娶莫妮卡为妻的时候，整个摄影棚的群众们都发出了最轰轰烈烈的罐装笑声与掌声。这场求婚被誉为第六季的高潮段落，钱德勒说：“我一直以为，求婚应该是在一个完美的地方，说一套完美的誓词。现在我明白了，求婚唯一重要的是有一个完美的对象。你带给了我想象不到的快乐，如果你愿意，在我以后的生命里，我会尽所有的努力，让你也体会到我的这种幸福。嫁给我好吗？”</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346141361.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/14.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620600&t=117814&c=11&s=1783d7841e19696bc994" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620600"]["ballot"]);</script></div></div>
+
+
+<li>
+<p>　　演惯了硬汉帅哥的布鲁斯-威利在《老友记》中本来有一个很酷很权威的出场，他饰演罗斯小女友的父亲，对罗斯满腔不满，呼来喝去，并且要求他和自己女儿分手，但是自己却又看上瑞秋，于是四个人就在一个别墅里撞上了<span>…More</span></p>
+<div class="switch">　　演惯了硬汉帅哥的布鲁斯-威利在《老友记》中本来有一个很酷很权威的出场，他饰演罗斯小女友的父亲，对罗斯满腔不满呼来喝去，并要求他和自己女儿分手，但是自己却又看上瑞秋，于是四个人就在一个别墅里撞上了……<br>　　布鲁斯-威利凭借在这两集中的表演获得了当年的艾美奖，他大方恶搞的表现的确名不虚传，能耍酷能自毁，对着镜子大喊：“我是性爱机器”的时候，估计所有的观众都和床底下的罗斯一样睁大双眼，不可思议，开了眼界……</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346141224.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/15.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620601&t=117814&c=11&s=c17b59cc50d917122d72" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620601"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　后期《老友记》一度收视不佳，瑞秋扮演者安妮斯顿也叫来了当时的老公布拉德皮特帮忙客串。安妮斯顿说这是她和皮特第一次共同出演，两个人都紧张得不行，不过如今再看也是此情可待追忆了……<span>…More</span></p>
+<div class="switch">　　后期的《老友记》一度收视不佳，瑞秋扮演者安妮斯顿也叫来了当时的老公布拉德皮特帮忙客串一集，他在这一集中饰演的是一位高中的胖子，因为讨厌瑞秋和罗斯组成了“我恨瑞秋俱乐部”，并四处传言说瑞秋有男女生殖器。拍摄这一集的时候，安妮斯顿说这是她和皮特第一次共同出演，两个人都紧张得不行，不过如今再看也是此情可待追忆了……</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+</ul>
+
+<ul>
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120621/n346214924.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/16.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620602&t=117814&c=11&s=88721bb9a539a0894f1f" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620602"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　瑞秋生了整整一季的孩子，而她的怀孕生产也是后期老友记的最大伏笔和看点。生孩子的时候瑞秋各种焦虑，还遇到了“OH MY GOD！”的珍妮丝，她一挥手让罗斯把帘子拉上的瞬间被评论为安妮斯顿的上佳可爱表演<span>…More</span></p>
+<div class="switch">　　瑞秋整整生了一季的孩子，而她的怀孕和生产也是后期老友记的最大伏笔和看点，虽然有人认为是当时黔驴技穷的策略，但不得不说，这一集效果很不错，加上当时传出了编剧有心把瑞秋写成难产而死，更造就了话题一时。在生孩子的时候，瑞秋各种焦虑，还遇到了“OH MY GOD！”的珍妮丝，的确不胜其烦且笑料迭出，她一挥手让罗斯把帘子拉上的瞬间被评论为安妮斯顿的上佳可爱表演。</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346145285.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/17.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620603&t=117814&c=11&s=352f62939fa19096578d" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620603"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　第二季的时候，菲比曾说龙虾一旦定情，就会相爱终身。很老的时候，都会爪子牵着爪子，幸福地在鱼缸里散步。最后RR终于走在一起，菲比像7年前一样欣喜的说：我早说了，他们的确是彼此的龙虾<span>…More</span></p>
+<div class="switch">　　第二季的时候，菲比就说过自己的龙虾理论，她说龙虾一旦定情，就会相爱终身。很老的时候，都会爪子牵着爪子，幸福地在鱼缸里散步。她坚信RR是彼此的龙虾，结果一直到7年之后，要去巴黎的瑞秋在上飞机后折返，跑回了公寓，她说我想到不能见到你我就不想去巴黎了。<br>　　他们在一起的时候，菲比像7年前一样欣喜的说：我早说了，他们的确是彼此的龙虾。</div>
+</li>
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+<div class="every">
+<div class="each">
+<a href="http://tv.sohu.com/20120620/n346149899.shtml" target="_blank"><img src="http://yule.sohu.com/upload/friends18momentss/18.jpg" width="292" height="352"></a>
+
+<div class="vote">
+<div class="icon"><a href="http://yule.survey.sohu.com/poll/single.php?p=62446&i=620604&t=117814&c=11&s=e6911493d790c3db67ac" target="_blank"></a></div>
+<div class=result><script type="text/javascript">document.write(title["117814"]["item"]["620604"]["ballot"]);</script></div></div>
+
+<li>
+<p>　　2004年，十年的老友记终于到尽头。6人携手告别的那天，3000多青年在纽约时代广场含泪观看这个结局。当我们和他们一起最后一次回望这间公寓、当镜头最终定格在那令人哭笑不得却唏嘘感叹的6把钥匙，时代结束了<span>…More</span></p>
+<div class="switch">　　2004年，十年的“老友记”终于做到尽头，在举国关注的大结局一集中，莫妮卡与钱德领养了一对可爱的双胞胎，菲比嫁作他人妇，乔依继续表演事业，瑞秋原本要赴巴黎工作，可最后关头，她还是幡然醒悟，这辈子对她不离不弃的不是到后来总会被她搞砸的事业，而是那个钟情研究恐龙的老实男人罗斯，因为从瑞秋第一次穿着婚纱闯进那家咖啡店开始，这结局就已经注定了。<br>　　2004年6人携手告别的那天，3000多青年在纽约时代广场上含泪集体观看这个结局，六位主演在排演最后一季时候也激动得难以自抑，十年又长又短、又苦又甜，《老友记》带来的个中冷暖只有一路走来的人才会懂得。当这间一直热闹、拥挤、嬉戏、喧嚣的公寓被搬空、当我们和他们一起最后一次回望这间公寓、当镜头最终定格在那令人哭笑不得却唏嘘感叹的6把钥匙，时代结束了。</div>
+</li>
+
+<div class="blank10"></div><div class="blank10"></div>
+</div>
+</div>
+
+</ul>
+</div>
+
+
+<div class="piccut Area">
+
+<div class="piclist"></div>
+</div>
+<div class="videocut Area">
+
+<div class="videolist"></div>
+</div>
+
+
+<div class="cut2 Area">
+
+	<div class="lc">
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+
+
+
+
+		<!--sas:mt:xhtml:end-->
+
+	</div>
+	<div class="cc">
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+
+		<!--sas:at:xhtml:start 中间列表-->
+	    
+  <div class="text">
+		</div>
+		
+
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+
+		<div class="text"></div>
+
+		<div class="text"></div>
+
+		<div class="text"></div>
+
+		<div class="text"></div>
+
+		<div class="text"></div>
+
+		<div class="text"></div>
+
+		<div class="text"></div>
+
+		<div class="text"></div>
+		<!--sas:at:xhtml:end-->
+
+	</div>
+	<div class="rc">
+		<!--sas:mt:xhtml:start-->
+		
+		<!--sas:mt:xhtml:end-->
+
+		<!--广告 st-->
+		<div class="ad"><sohuadcode></sohuadcode></div>
+		<div class="ad"><sohuadcode></sohuadcode></div>
+		<!--广告 end-->
+
+		<!--sas:mt:xhtml:start-->
+		
+
+
+
+
+
+
+		<!--sas:mt:xhtml:end-->
+	</div>
+         <div class="wc">
+		
+
+		
+		
+	</div>
+	<div class="clear"></div>
+         
+</div>
+
+
+<a name="8things"></a>
+
+<div class="friends-told">
+
+<div class="told">
+
+<div class="title">
+<img src="http://i1.itc.cn/20120704/a04_90682e3f_4a7d_15f8_f995_e4d4252d28bb_1.jpg" height="265" width="920">
+</div>
+
+
+
+
+<div class="events">
+
+<div class="event" id="left">
+<h2><img src="http://yule.sohu.com/upload/friendstold/1-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h495">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c1.jpg" height="495" width="10">
+</div>
+
+<div class="txt-c" id="h495">
+<h6>　　《老友记》的10年对于瑞秋来讲是真正成长的10年，“学会独立”在这位大小姐身上被使用得最为恰如其分，她从婚礼中逃跑，跑进中央公园咖啡厅的时候就确定了自己要独立生活的决心。</h6>
+<h6>　　从期期艾艾的剪掉信用卡到端不好咖啡没小费，再到老友们凑钱让她去滑雪，直到第三季，瑞秋才真正的决定要脱离这种得过且过去追求自己的职业梦想：成为一个时尚人员。尽管在这条道路上，她几经阻隔，但《老友记》就是这么治愈，最终瑞秋不仅有了自己的办公室，甚至还有了去往巴黎的机会。</h6>
+<h6>　　“千金小姐落难记”是好莱坞屡试不爽的伎俩， 所以Rachel虽然一直带着几分傲娇和任性，但她的勇敢和独立却更值得赞扬。</h6>
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346958043.shtml#1081" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/1-2.jpg" height="126" width="166"></a>
+<p>瑞秋说要独立，结果还是欢乐的用老爸信用卡刷了新靴子，被大家批评教育，于是出现了历史的一幕，在老友的鼓励监督或者说群情激奋下，瑞秋剪断了自己的信用卡，莫妮卡对她说：欢迎来到真正的生活中，它很糟糕，但你会爱上它！”</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346958037.shtml#233" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/1-3.jpg" height="126" width="166"></a>
+<p>在咖啡馆做招待的瑞秋领到人生第一份薪水，发现少得可怜。菲比说这就像童话里的杰克，用牛换了魔豆，最终可能得到下金蛋的鹅。这也是瑞秋独立的预言。虽然没有能一辈子依赖老爸，也没嫁给那个有钱却不爱的丈夫，她却真正掌握了自己的生活。</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c2.jpg" height="495" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom1.jpg" height="27" width="414"></h2>
+
+</div>
+
+<div class="event" id="right">
+<h2><img src="http://yule.sohu.com/upload/friendstold/2-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h495">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c3.jpg" height="495" width="10">
+</div>
+
+<div class="txt-c" id="h495">
+<h6>　　论长情，一般人不敢和ROSS拼，从高中时期就爱上了妹妹的朋友瑞秋，当时的小公主+校花，N多年后再见面依然久久不能忘怀，几经蹉跎和错过终于牵手对方。ROSS的深情带着点蠢笨和炙热和沉默的持久，小时候不敢告白，长大了还不敢告白，分手了心心念念，就算中间他娶过别人、约会过萝莉、甚至对别人讲过爱，但瑞秋在他心底都是地位永远。</h6>
+<h6>　　乔伊曾经对瑞秋说他虽然阅女无数，但从来没有爱谁像罗斯爱瑞秋一样深。爱情重在质量，而非数量。没有办法，她是他的龙虾，有些人的爱与人生在遇到对的人那天就被确定了。</h6>
+<h6>　　</h6>
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346957997.shtml#980" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/2-2.jpg" height="126" width="166"></a>
+<p>瑞秋接到面试失败的电话心情不快，号称在牌场上六亲不认，决不做好人的罗斯为了哄瑞秋开心，故意输给她一大笔钱，然后看着开心庆祝的瑞秋露出一个微笑。这一幕不知令多少女性观众在艳羡到心中滴血，希望有一个罗斯样的好男人偷偷爱着你。</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346958908.shtml#719" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/2-3.jpg" height="126" width="166"></a>
+<p>在茱莉和瑞秋的选择中，罗斯做了件很不靠谱的事儿，他把两个姑娘的优缺点列了单子，瑞秋的缺点包括虚荣娇纵脚踝有点粗，这本来很让人生气，但在说到茱莉的缺点时，罗斯只是喃喃的说了一句：“她不是瑞秋。”</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c4.jpg" height="495" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom2.jpg" height="27" width="414"></h2>
+
+</div>
+
+</div>
+
+<div class="events">
+
+<div class="event" id="left">
+<h2><img src="http://yule.sohu.com/upload/friendstold/3-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h510">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c1.jpg" height="510" width="10">
+</div>
+
+<div class="txt-c" id="h510">
+<h6>　　《老友记》中钱德勒的性格设置总能引人共鸣，他身上体现的两面性最强，一方面他是幽默有趣能干又各种卖萌，另一方面，他内心却敏感冷感有点惧怕责任，这跟他年少时候父母离婚的际遇有关，他总是害怕关系与责任，更害怕关系与责任破裂后的孤独与痛苦，可是钱德勒不喜欢自怨自艾，于是习惯于用冷幽默伪装自己，每每遇到事情都要出言调戏讽刺，装作不认真的样子，当你发现他其实只是孩子气十足且害怕被伤害，就会越发觉得他的每个冷笑话都有点辛酸却蠢萌无穷。</h6>
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346959492.shtml#654" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/3-2.jpg" height="126" width="166"></a>
+<p>钱德勒和莫妮卡在伦敦罗斯的倒霉婚礼上天雷勾动地火，两个人一搞再搞无法停止，四处寻房而不得来到罗斯的婚房，恢复了片刻理性的莫妮卡觉得在这里“激情”不大妥当，但钱德勒却非常贫地说：“听我说，这是一间蜜月套房，它存在的价值就是制造浪漫，它需要性。如果无法得到，这房间一定会非常失望，其他蜜月套房也都会瞧不起它。”</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346959418.shtml#222" target="_blank"><img src="http://i0.itc.cn/20120704/a04_d2449e3d_f5a8_cd38_aedb_1c12b9342dcc_1.jpg" height="126" width="166"></a>
+<p>求婚前钱德勒跟菲比说：“当我盯着那枚戒指的时候，我几乎能看到莫尼卡咧着嘴说我愿意的样子。向她求婚是我这辈子做的最重要的事儿，我想让这个仪式十全十美。”为了这场十全十美，他紧张兮兮的拿着戒指满地找人练习，甚至抓住一个陌生男人说：“先生，你能拿着戒指问我愿不愿意嫁给你吗？”在爱的前提下，有时候越愚蠢，越动人。</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c2.jpg" height="510" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom1.jpg" height="27" width="414"></h2>
+
+</div>
+
+<div class="event" id="right">
+<h2><img src="http://yule.sohu.com/upload/friendstold/4-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h510">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c3.jpg" height="510" width="10">
+</div>
+
+<div class="txt-c" id="h510">
+<h6>　　莫妮卡不如瑞秋漂亮、不如自己哥哥聪明，从小还是个胖子，在父母更疼爱罗斯的阴影下长大，没有男人喜欢，喝水都发胖，可是莫妮卡的一生却都在为自己所坚持的一切而努力。钱德勒说你应该减肥，她用了一年时间减掉了100斤，她想要做厨师，就一点都不妥协的去努力。在和钱德勒在一起的日子里，莫妮卡努力经营彼此的感情，她的人生更像一个普通的女孩子，没有开外挂，没有白马王子，没有备受宠爱，但每一步都坚实强悍，在曾经备受忽视下学会找到自己的位置，最终在6个好友中，她成为了女主人和永远的核心。</h6>
+
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346959399.shtml#724" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/4-2.jpg" height="126" width="166"></a>
+<p>努力的莫妮卡为了“不能输”这三个字可是付出过很多，就算谈恋爱时候都要和朋友拼一下谁和男友更热烈，为此，她拉着钱德勒四处做爱，甚至厕所都不放过，最后被钱德勒教育了说爱情不是攀比。而钱德勒则在了解了莫妮卡的好胜和努力后，对她说：“如果输赢对你真的有那么大的意义，那么我就该和你一起拼命争取，谁让我爱你呢？”</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346959272.shtml#1132" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/4-3.jpg" height="126" width="166"></a>
+<p>莫妮卡的妈妈从来都对女儿不太满意，尽管莫妮卡表达过多次不爽，但依然改变不了老人家的固有思维，甚至她都不肯让莫妮卡这个厨师来负责自己家的宴会伙食，但莫妮卡争取到了一次机会，并且用神经质般的认真完成了交上了完美味觉答卷。盖勒夫人终于承认了自己的女儿，她有点勉为其难却掩饰不住自豪的说下次再也不会准备备用食物了。</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c4.jpg" height="510" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom2.jpg" height="27" width="414"></h2>
+
+</div>
+
+</div>
+
+<div class="events">
+
+<div class="event" id="left">
+<h2><img src="http://yule.sohu.com/upload/friendstold/5-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h460">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c1.jpg" height="460" width="10">
+</div>
+
+<div class="txt-c" id="h460">
+<h6>　　乔伊爱吃爱笑爱泡妞，人生无比简单，所以为人格外率性有魅力，在三位男老友中最有人缘。而乔伊最大的特色无疑就是仗义，虽然傻兮兮的，但是瑞秋出去倒垃圾被骂哭了，他二话不说就冲出去和人理论，得知三位女性朋友中有个人怀孕，他也不管三七二十一拿着戒指四处求婚。在体会到被人甩掉的感觉后，一一打电话跟他的一夜情女伴们道歉，请求原谅。在钱德勒与女友詹尼斯热恋时，乔伊看到詹尼斯和前夫接吻，开始怕伤害钱德勒，故意瞒着他。但眼见他越陷越深，不得不告诉他真相，尽管为此被斥责，但他依然认真：“我没看错，我也希望我看错了。” 当然，乔伊说过的最仗义的话就是：“如果你们需要，我可以在你们任何人身上尿尿。”你还记得吗？</h6>
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346957999.shtml#1078" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/5-2.jpg" height="126" width="166"></a>
+<p>乔伊爱上菲比的双胞胎姐姐厄苏拉，甚至为她缺席了菲比的生日会。乔伊失恋以后，菲比装成姐姐来安慰乔伊。她问乔伊能否为了“她”放弃跟菲比交往，乔伊说不能。</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346957986.shtml#221" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/5-3.jpg" height="126" width="166"></a>
+<p>尼克斯的狂热球迷乔伊在产房门口巧遇凯尔特人产妇球迷，陪她度过了最艰难的时期。女孩的男友赶来后，乔伊安静的离开。尼克斯赢了，女孩对男友说：“纽约队也没有那么烂。”</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c2.jpg" height="460" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom1.jpg" height="27" width="414"></h2>
+
+</div>
+
+<div class="event" id="right">
+<h2><img src="http://yule.sohu.com/upload/friendstold/6-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h460">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c3.jpg" height="460" width="10">
+</div>
+
+<div class="txt-c" id="h460">
+<h6>　　那个年代的荧屏还没有像现在这般怪咖横行，贱客当道，这也让神经兮兮的菲比显得格外与众不同，也正因如此，她成为了《老友记》中承载最多笑点的角色。这位身世坎坷、从小被抛弃、亲人欠奉的怪姑娘大脑经常搭错线，她仿佛没法用正常人的思维去理解世界，比如每次看牙都觉得会失去一个亲人，对着爱因斯坦的照片叫爷爷什么的，可是菲比的善良也是纯洁到了怪诞的程度，她似乎不知道使用人性中自私自利的部分，连穿动物的皮毛都会羞愧内疚得不行，最后把皮毛大衣盖在了小松鼠的身上。同时她还是一名多产的即兴派歌手，靠着三个和弦和奇葩歌词走遍天下的狠角色，菲比在十季《老友记》里共创作了47首原创歌曲，荒腔走板中透露出古怪的幽默感。</h6>
+
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346958039.shtml#682" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/6-2.jpg" height="126" width="166"></a>
+<p>银行账户被错误的多打了几百块钱，这个经济窘迫的姑娘竟觉得这是倒霉的事儿。最终她把这些钱送给了街边的乞丐大婶，并欣然接受了乞丐请她喝的苏打水。</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346959240.shtml#1191" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/6-3.jpg" height="126" width="166"></a>
+<p>菲比决定为弟弟和弟妹生孩子。虽然放弃孩子时会有十万分的难过，但看到弟弟弟妹高兴的样子，也会有十万分的幸福。全世界最伟大的姐姐。</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c4.jpg" height="460" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom2.jpg" height="27" width="414"></h2>
+
+</div>
+
+</div>
+
+<div class="events">
+
+<div class="event" id="left">
+<h2><img src="http://yule.sohu.com/upload/friendstold/7-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h710">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c1.jpg" height="710" width="10">
+</div>
+
+<div class="txt-c" id="h710">
+<h6>　　爱是《老友记》的主旋律，罗斯和瑞秋、钱德勒和莫妮卡两对各有萌点的情侣纠缠数年是期间看点，很多人守到《老友记》最后一集就是希望看到他们终成眷属至死不渝，但十季的《老友记》中更动人的爱是这六个人之间不离不弃的情感，历经十年超越了亲人和朋友，实在很难想象罗斯和瑞秋会各自结婚，也很难想象在每个感恩节他们不会聚在一起吃巨大的火鸡，开巨大的玩笑。像莫妮卡在第一季所说：“欢迎来到真实生活，它很糟糕，但你会爱上它！”《老友记》就和所有的观众在10年里围观生活，享受爱。“与你最久的人只有你自己，可是最好的时光里，我们在一起。”</h6>
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346959934.shtml#835" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/7-2.jpg" height="126" width="166"></a>
+<p>最后一季，瑞秋和大伙儿分别告别，她要去巴黎了。菲比送她一根沾着自己口水的棉棒，嘱咐她等克隆技术完善了就在那边克隆一个菲比陪她；瑞秋对莫尼卡说如果没有对方，这十年的丰富快乐就无从谈起；平日最能说的钱德勒嘴巴卡了壳；乔伊表现的“最好”，整场对话始终微笑，等瑞秋转身后却想跳楼；看到这些离别罗斯很失落，他质问瑞秋为什么不能跟自己说几句贴心话，瑞秋说：“跟你说再见对我来说太难了，我对你的不舍根本无法表达，每次想到再也不能天天见到你，我都难受得有些不想去了…”最终瑞秋从飞机上逃了出来，在罗斯的嘶吼中跑回公寓，错过多年的龙虾爪子抓到了一起，而《老友记》也仿佛和时间一起如释重负，拥抱爱情。</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346959549.shtml#982" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/7-3.jpg" height="126" width="166"></a>
+<p>莫妮卡和钱德勒的婚礼简直就是幸福爱情的模板，两位老友在经历了各种摸爬滚打甚至不靠谱后，站在身上的舞台上。莫妮卡说：“一直以来，我孜孜以求自己的白马王子，蓝颜知己。三年前，在另一场婚礼上，我伏在一个朋友肩膀上寻求慰藉，结果，我却找到了一辈子可以依靠的那个肩膀。放眼以后的日子，我只想与你相互搀扶，一起度过，我的王子，我的知己，我足以托付终生的挚友。”而钱德勒则回答她说：“我曾以为结婚对我来说是最最艰难的事情，但当我看到你从红毯上一步步向我走来，才明白这件事情是多么简单而美好。我爱你，今后的一切意外都再也不能使我恐慌，因为，我牢记着：我爱的是你，你是我注定要娶回家的女人。”</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c2.jpg" height="710" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom1.jpg" height="27" width="414"></h2>
+
+</div>
+
+<div class="event" id="right">
+<h2><img src="http://yule.sohu.com/upload/friendstold/8-1.jpg" height="85" width="414"></h2>
+
+<div class="txt" id="h710">
+
+<div class="txt-l">
+<img src="http://yule.sohu.com/upload/friendstold/c3.jpg" height="710" width="10">
+</div>
+
+<div class="txt-c" id="h710">
+<h6>　　自94年开播，老友记已经陪伴全世界20年了，看他的观众从大学生成长为社会人士，演他的那拨演员经历了走红全球也有了各自的婚姻，但在人们心里，瑞秋永远是莽撞跑进咖啡馆的大小姐，莫尼卡则永远强迫症很爱赢，菲比大脑接不上茬，乔伊的桃花如流水，而钱德勒每天还在讲着冷笑话，罗斯则一直是瑞秋的那只龙虾。生活永远是最虐人的，电视上的生活跌宕起伏最终皆大欢喜，可是和他们认识了18年的我们，几乎在欢声笑语中也认可了自己不尽如人意的生活，那是《老友记》独树一帜的功劳，而无论是18年，还是20年，我们都会永远记得他们，记得像他们一样生活和欢笑……</h6>
+
+
+<ul>
+<li> <a href="http://tv.sohu.com/20120630/n346957986.shtml#1176" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/8-2.jpg" height="126" width="166"></a>
+<p>老友记很喜欢用怀孕、结婚、生子、恋爱作为每一季的结尾或高潮，因为那是生活中最重要的几件大事。生命的诞生尤其值得铭记，从罗斯前妻到菲比为弟弟代孕产下三胞胎，再到瑞秋艰难的生了一整季的孩子，都是《老友记》留给我们最动人的段落。而第一季的一大高潮就是罗斯的前妻生下他的儿子本，六位老友在医院里守着，一阵鸡飞狗跳和各种动人笑料后，剧集很有创意和有爱的用这个小生命的视角看向六位老友，他们对他说Hi Ben，他们一个个好奇的望着他，期待着与其相伴之后的10年以及更长的生命。而剧集的最后，他的爸爸罗斯对他说：“本，你要知道，有时候我会不在你身边，但我会回来，有时候可能时间长一些，但我仍会回来。”</p>
+</li>
+<li> <a href="http://tv.sohu.com/20120630/n346958028.shtml#1031" target="_blank"><img src="http://yule.sohu.com/upload/friendstold/8-3.jpg" height="126" width="166"></a>
+<p>《老友记》最动人的就是它的真实，剧中人物的遭遇像一面镜子一样照出了我们也治愈着我们。第一季中乔伊得到一个“难得的，极有可能改变其演员生涯的重要角色”——大明星阿尔-帕西诺的屁股替身，大家都非常为他高兴，然而就像《喜剧之王》中的周星驰一样，他因为过度投入，太想演出屁股的内心戏而被导演炒了鱿鱼。沮丧的乔伊感到很没面子：“六年来我除了演些烂角色以外一事无成，如今机会来了我却将它搞砸。”这时菲比安慰他说：“我不认为这是你唯一的机会，你的机会还有很多，我相信大好机会就会降临到你身上，你必须想着，将来有个小伙子跑到朋友面前说：我被录取了，我要演乔伊的屁股！”</p>
+</li>
+</ul>
+
+
+</div>
+
+<div class="txt-r">
+<img src="http://yule.sohu.com/upload/friendstold/c4.jpg" height="710" width="10">
+</div>
+
+
+</div>
+
+<h2><img src="http://yule.sohu.com/upload/friendstold/bottom2.jpg" height="27" width="414"></h2>
+
+</div>
+
+</div>
+
+
+
+
+
+</div>
+</div>
+<a name="effect"></a>
+
+<div class="inchina">
+<h2></h2>
+<div class="txt">
+<li>
+<h6>　　① 影市流通</h6>
+<p>　　热播十年的《老友记》可以说是美剧正式在中国受众心中植根的作品，95年明珠台首播在广东沿海地区培养出第一批国内忠实的美剧观众。而它正式在全国范围内的流传是在2000年前后，DVD设备的普及，国内观众的视野终于因为不受审查限制而爆发式的丰富了起来。《老友记》可以算是最早被内地DVD发烧友发现的美剧。</p>
+<p>　　那时喜欢在碟店打转的大学生都会禁不住老板热情的推荐，买回《老友记》后惊艳的向周遭人继续推荐，在网络还不发达的年代，口碑宣传是美剧普及的第一波，而这个波长和延展则由情景喜剧作主完成。</p>
+<h6>　　② 英语文化</h6>
+<p>　　90年代末到新千年这10年间，《老友记》一直作为英语圣经出现在大学宿舍和课堂里，英语老师会放一集无字幕的《老友记》或者《威尔和格蕾丝》又可能《人人都爱雷蒙德》来做口语培训，许多英语狂人</p>
+</li>
+
+<li>
+<h6>　　</h6>
+<p>也在乱啃听力碟的间歇爱上了美国情景喜剧。如果有男生挤眉弄眼的说：“How you doing？”，你是否能熟练又下意识的会心一笑？</p>
+
+<h6>　　③ 生活趣味</h6>
+<p>　　当然，说到时尚风向和品牌效应要提到下文的时尚主题剧，但《老友记》这类落入平常百姓家的情景剧，个中穿着和用品似乎更为接近普通人。 </p>
+
+<p>　　某集中瑞秋穿的衣服、某集中菲比用的杯子，在第二天剧组都会接到成群的电话询问哪里可以购买。瑞秋的饰演者珍妮佛-安妮斯顿曾多次成为最佳发型和最佳穿着的得主，而她邻家女孩式的装扮能如此入心，《老友记》的时尚引导功不可没。</p>
+</li>
+
+<div style="clear:both"></div>
+
+</div>
+</div>
+
+
+<div class="without">
+<h3></h3>
+
+<h6>　　① 那就没有娱乐圈的三角恋盛事</h6>
+<p>　　瑞秋和罗斯的爱情是90年代影视作品中的经典爱情，任何一种爱情故事盘点都不会错过这一对，青梅竹马、情愫暗生、小男小女、分分合合却众望所归，RR恋（Rachel vs Ross）甚至成为了一个代表和相信爱情的形容词和代名词，在近10多年影响着每个观众以及每一个影视创作者。</p>
+<p>　　当然，凡是经典爱情总是缺不了三角恋，在《老友记》的10年里，铁打的RR和流水的炮灰们层出不穷的披挂上阵，从被罗斯叫错名字的前妻艾米丽到罗斯从北京带回来的华裔女友朱莉，从当时安妮斯顿男友皮特客串的高帅富到布鲁斯-威利饰演的老帅哥，甚至连乔伊都不能幸免的爱上过瑞秋，三角恋贯穿始终，考验、敲打、影响以及烘托着RR的爱情，更从侧面说明了只有他们才能接受彼此、深爱彼此和适合彼此。这种模式也在其后很长时间被人们所钟爱和接受。</p>
+<p>　　而这股三角恋风潮到2005年居然上演了真人版，安妮斯顿和白马王子皮特宣布分手，而当时的第三者是与皮特在拍摄《史密斯夫妇》时擦出火花的安吉丽娜-朱莉，这件事像百慕大三角漩涡一样持续性的席卷三人长达7年，至今这段著名的离婚官司但凡有一方发言必定成为头版头条，有人斥责皮特婚内劈腿，有人斥责茱莉无耻做小三，也有人批评安妮斯顿为了事业不肯生孩子，让婚姻生活出现问题，无论是什么原因现在都不重要了，历经数年他们已经各自幸福，但《老友记》的粉丝偶尔会纠结，帮瑞秋想起来，在95年，那个曾经一度横刀夺走罗斯的亚裔女人居然也叫：朱莉。</p>
+
+
+<h6>　　② 那就没有如今的繁衍影响</h6>
+<p>　　2009年，31岁的英国男子史蒂夫-默休拉便曾不眠不休84小时看完了该剧的全部238集。当时，英国《每日电讯报》7日援引默休拉的话说，他虽然非常喜欢《老友记》，但连看几十个小时的滋味很不好受。观看过程中他出现恶心、胃痉挛等不适症状，后来甚至出现幻觉。“我感觉房间的墙壁在逐渐消失，还问身边的朋友们出什么事了，”默休拉回忆说。默休拉称自己已经打破不间断看电视72小时的吉尼斯世界纪录，为此他已向《吉尼斯世界纪录大全》提出申报。</p>
+<p>　　别以为史蒂夫做这件事有太多疯狂与稀奇，事实上全球多少美剧迷是因为疯狂痴迷《老友记》起家，有多少人曾经用一个假期时间连续看完10季的《老友记》，又有多少人会把这部剧翻来覆去看了无数遍，而这也奠定了美国肥皂剧在人们心中的形象地位：有趣、幽默、疯狂、快速，消遣却动人。</p>
+<p>　　而在《老友记》之后，美国情景喜剧的风潮有点不振，在《老友记》和《威尔与格雷斯》的时代过去后，虽然美式肥皂剧依然层出不穷，但在中国和全球甚少再有《老友记》如此的影响力。而07年的一部讲述宅男生活的《生活大爆炸》在这个又愤又宅的时代里找到了共鸣，而佩妮那仿佛瑞秋般的娇俏有趣、女服务员的职业，以及和傻呼呼的莱纳德温婉又纠结的爱，以及至今用起了3女4男的人物结构都让人想到了《老友记》，其稳定的易于观众接受的“六边形”结构，每一集前后呼应的舞台剧作感，以及许多鲜明的特征和创新元素，对全球乃至中国电视剧都产生了一定影响，目前我们能看到许多仿效该剧的中国式情景喜剧，它们或多或少继承和延续了一些特点。</p>
+
+<h6>　　③ 那就没有国民甜心的样板</h6>
+<p>　　第八季里的瑞秋挺个大肚子，忽然叫住急着要上厕所的罗斯，一本正经的讨论起他们的关系：我们住一起了，又有个孩子，严肃地说，你对这个怎么看。爱较真的恐龙博士马上惶恐的立刻陷入思考，咬着手指开始想。她忽然扑哧一笑，狡黠地说：“开玩笑啦。”憋坏了的罗斯嗷嗷叫着冲向厕所，她甩着手，得意洋洋转过身来，笑得一脸欢乐。</p>
+<p>　　每个人都在高呼她可爱，这一季时候的安妮斯顿已经32岁了，演一个怀孕的准妈妈，却一颦一笑依然甜美得令人大呼可爱，她和瑞秋这个角色一起创造了标准的美国国民甜心样板，没有特别漂亮或者特别聪明，甚至没有多少才华和想法，有着甜美的小女人姿态和平常人的思路，神经质、女孩子、傻大姐、满面笑容、长不大，会迟到不靠谱，惹了麻烦就吐舌头，遇见事情会嗯嗯的哭起来，撒娇、阳光和亲切是她的招牌，但就是这个招牌百试不厌，生活和世界会原谅她、眷顾她、宠爱她，瑞秋就像全美人民的闺女一样，所以，当安妮斯顿嫁个布拉德?皮特那天甚至创造了一个关于甜心的真实童话，国民甜心就该像瑞秋和安妮斯顿一样，天真甜美的长大，阳光灿烂的大笑，一直亲切得让人有舒服在家的感觉，又性感得不动声色触手可及，继而被罗斯或者皮特这样的男人痴情的拥入怀中，得到一份完美、平静又能治愈众生的爱情。</p>
+<p>　　在安妮斯顿之后，布蕾克-莱弗利也以同样的风格和更大气的性感和身材成为85后的新国民甜心，一样的金发和灿烂的大笑，五官并不完美精致，却像是阳光下一直飞扬开放的植物：健康、自在。</p>
+<p>　　</p>
+
+
+</div>
+
+<div class="cut3 Area">
+
+	<div class="lc">
+		<!--sas:mt:xhtml:start-->
+		
+                   
+		<!--sas:mt:xhtml:end-->
+	</div>
+	<div class="cc">
+		<!--sas:at:xhtml:start 两列列表左-->
+		
+
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+
+	</div>
+	<div class="rc">
+		<!--sas:at:xhtml:start 两列列表右-->
+		
+
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+		
+		<div class="text"></div>
+
+	</div>
+	<div class="wc">
+		
+
+		
+		
+	</div>
+	<div class="clear"></div>
+         
+</div>
+
+
+<div class="piccut Area">
+
+<div class="piclist"></div>
+</div>
+<div class="videocut Area">
+<style>
+
+.shuming{margin:0 auto; width:980px; height:60px; background-color:#ECEAE0}
+
+.shuming p{text-align:left; float:left; line-height:60px; color:#7B7063;width:700px; padding-left:80px; font-family:"微软雅黑"; font-size:13px; font-weight:bold}
+.shuming img { margin-top:10px;}
+</style>
+
+<div class="shuming">
+
+<p>&gt; 策划：风间 | 制作：算盘 |  撰稿：钝夏 |设计：老六</p>
+
+<a href="http://tv.sohu.com/" target="_blank"><img src="http://i0.itc.cn/20111101/a04_ed58c77b_2f1b_302b_66c1_b63c2ff488ad_1.jpg" width="80" height="40" alt="搜狐视频"></a></div>
+<div class="videolist"></div>
+</div>
+
+<!--sas:mt:xhtml:start 大通栏循环-->
+
+<!--sas:mt:xhtml:end-->
+<style>
+#foot{display:none}
+
+.copy{width:980px; margin:0 auto; border-top: 1px solid #333333;color: #333333;line-height:22px; text-align:center; margin-top:5px; padding:5px 0 10px}
+
+</style>
+
+
+<div class="copy">Copyright &copy; 2013 Sohu.com Inc. & Warner Bros. Entertainment Inc. All Rights Reserved.</div>
+<script>
+var _iwt_UA="UA-sohu-123456";
+</script>
+<script type="text/javascript" src="http://tv.sohu.com/upload/Trace/iwt-min.js"></script>
+<script type="text/javascript" src="http://js.tv.itc.cn/hdpv.js"></script>
+<!-- Begin comScore Tag --> 
+<script> 
+  document.write(unescape("%3Cscript src=' " + (document.location.protocol == "https:" ? "https://sb" : "http://b") 
++ ".scorecardresearch.com/beacon.js'  %3E%3C/script%3E")); 
+
+</script> 
+ 
+<script> 
+if(typeof COMSCORE!=="undefined"){
+  COMSCORE.beacon({ 
+    c1:2, 
+    c2:"7395122", 
+    c3:"", 
+    c4:"", 
+    c5:"", 
+    c6:"", 
+    c15:"" 
+  }); 
+}
+</script> 
+<noscript> 
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395122&c3=&c4=&c5=&c6=&c15=&cj=1" /> 
+</noscript> 
+<!-- End comScore Tag -->
+
+
+<div id="foot" class="Area"> 
+Copyright &copy; 2017 Sohu.com Inc. All Rights Reserved. 搜狐公司 <span class="unline"><a href="http://corp.sohu.com/s2007/copyright/" target="_blank" rel="nofollow">版权所有</a> <a href="http://roll.sohu.com" target="_blank">全部新闻</a> <a href="http://blog.sohu.com/roll" target="_blank">全部博文</a></span><br />
+</div>
+<SCRIPT language=JavaScript src="http://a1.itc.cn/pv/js/spv.1309051632.js"></SCRIPT>
+<script language="javascript" src="http://js.sohu.com/wrating20120726.js"></script>
+<script language="javascript">
+var  _wratingId = null;
+try{
+_wratingId = _getAcc();
+}catch(e){}
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript" src="http://sohu.wrating.com/a1.js"></scr'+'ipt>');
+}
+</script>
+<script language="javascript">
+if(_wratingId !=null){
+document.write('<scr'+'ipt type="text/javascript">');
+document.write('var vjAcc="'+_wratingId+'";');
+document.write('var wrUrl="http://sohu.wrating.com/";');
+document.write('try{vjTrack();}catch(e){}');
+document.write('</scr'+'ipt>');
+}
+</script>
+<script> require(["sjs/matrix/ad/passion"]);</script>
+<!--SOHU:SUB_FOOT_DIV-->
+
+<sohuadcode></sohuadcode>
+
+</body>
+</html>
